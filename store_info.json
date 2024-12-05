@@ -8,8 +8,6 @@
     "website": "http://localhost/webquanao/"
   },
   "products": [
-    {
-      "products": [
         {
           "name": "Nike Air Zoom Pegasus 39",
           "description": "Giày chạy bộ Nike",
@@ -23,6 +21,4 @@
           "category": ["Adidas", "giày chạy bộ"]
         }
       ]
-    }
-  ]
 }
