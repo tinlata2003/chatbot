@@ -1,0 +1,102 @@
+{
+  "store_name": "FITNESS STORE",
+  "description": "Fitness Store là điểm đến lý tưởng dành cho những người quan tâm đến sức khỏe và sắc vóc. Chúng tôi chuyên cung cấp các sản phẩm chất lượng cao hỗ trợ giảm cân, ăn kiêng, bảo vệ xương khớp và tăng cường sức khỏe toàn diện. Với tầm nhìn trở thành người bạn đồng hành đáng tin cậy trên hành trình chăm sóc cơ thể, chúng tôi tự hào mang đến: Thực phẩm hỗ trợ giảm cân: Các loại ngũ cốc, yến mạch, hạt dinh dưỡng, và thực phẩm ít đường, giàu chất xơ, giúp kiểm soát cân nặng hiệu quả mà vẫn đầy đủ năng lượng. Đồ uống dinh dưỡng: Sữa hạt, trà detox, và các loại nước uống bổ sung dưỡng chất hỗ trợ thanh lọc cơ thể, cải thiện hệ tiêu hóa, và tăng cường sức đề kháng. Sản phẩm chăm sóc xương khớp: Các dòng thực phẩm giàu canxi, collagen và các dưỡng chất đặc biệt hỗ trợ xương khớp khỏe mạnh, ngăn ngừa loãng xương và đau khớp. Sản phẩm hữu cơ và thiên nhiên: Đảm bảo an toàn tuyệt đối, không phẩm màu, không chất bảo quản, thân thiện với cơ thể và môi trường. Fitness Store không chỉ là nơi mua sắm mà còn là người bạn đồng hành mang đến kiến thức, lời khuyên dinh dưỡng từ đội ngũ tư vấn giàu kinh nghiệm. Hãy để chúng tôi giúp bạn sống khỏe, đẹp và tràn đầy năng lượng mỗi ngày!",
+  "contact_info": {
+    "address": "Thủ Dầu Một, Bình Dương",
+    "phone": "0988888888",
+    "email": "FITNESSTORE@gmail.com",
+    "website": "http://localhost/"
+  },
+  "products": [
+    {
+      "name": "Thực phẩm bổ sung yến mạch hạt chia Best Choice gói 240g",
+      "description": "Thực phẩm bổ sung yến mạch hạt chia Best Choice không chỉ mang lại hương vị thơm ngon mà còn có nhiều lợi ích cho sức khỏe: • Cung cấp năng lượng: Sản phẩm chứa nhiều carbohydrate phức tạp từ vảy ngũ cốc và bột gạo, giúp cung cấp năng lượng bền vững cho cơ thể. • Hỗ trợ phát triển cơ bắp: Đạm sữa và bột đậu nành cung cấp protein cần thiết cho việc xây dựng và duy trì cơ bắp. • Cải thiện tiêu hóa: Yến mạch và hạt chia là nguồn cung cấp chất xơ phong phú, giúp cải thiện hệ tiêu hóa, ngăn ngừa táo bón. • Tăng cường sức khỏe xương: Sữa bột và canxi trong sản phẩm giúp phát triển xương chắc khỏe, ngăn ngừa loãng xương. • Thúc đẩy miễn dịch: Các dưỡng chất trong sản phẩm giúp tăng cường hệ miễn dịch, bảo vệ cơ thể khỏi các bệnh tật.",
+      "price": 50000,
+      "category": "Thực phẩm bổ sung"
+    },
+    {
+      "name": "Thùng 24 hộp sữa hạt cao đạm Vinamilk ít đường 180ml",
+      "description": "Thùng 24 hộp sữa hạt cao đạm Vinamilk ít đường 180ml là sản phẩm sữa hạt với vị ngon kết hợp từ 7 loại hạt cao cấp với chủ đạo từ đạm đậu Hà Lan. Sữa hạt Vinamilk cao đạm ít đường hỗ trợ duy trì, phát triển cơ bắp, giúp hệ xương vững chắc.",
+      "price": 327000,
+      "category": "Đồ uống dinh dưỡng"
+    },
+    {
+      "name": "Thùng 24 hộp sữa hạt ít đường Vinamilk 9 loại hạt 180ml",
+      "description": "Thùng 24 hộp sữa hạt ít đường Vinamilk 9 loại hạt 180ml giàu dưỡng chất từ 9 loại hạt, chứa ít đường, hương vị thơm ngon, dễ uống, tốt cho người giảm cân, ăn kiêng. Sữa hạt Vinamilk 9 loại hạt là sản phẩm sữa hạt không chứa chất bảo quản, an toàn cho người sử dụng.",
+      "price": 300000,
+      "category": "Đồ uống dinh dưỡng"
+    },
+    {
+      "name": "Yến mạch trái cây Sunrise bịch 300g",
+      "description": "Yến mạch trái cây được kết hợp với các loại yến mạch và trái cây sấy thơm ngon, hấp dẫn. Yến mạch trái cây Sunrise bịch 300g cung cấp cho bạn bữa ăn sáng hoặc bữa ăn phụ rất ngon miệng mà không sợ mập. Yến mạch Sunrise chất lượng, tiện lợi ăn kèm với sữa tươi và sữa chua sẽ ngon hơn.",
+      "price": 90000,
+      "category": "Thực phẩm bổ sung"
+    },
+    {
+      "name": "Yến mạch nguyên chất Yumfood hũ 800g",
+      "description": "Yến mạch nguyên chất Yumfood được chế biến hoàn toàn từ 100% yến mạch nguyên chất đã qua giai đoạn sàng lọc và vệ sinh theo chuẩn an toàn thực phẩm cùng với cam kết 3 không (không phẩm màu, không chất phụ gia và không chất bảo quản). Vì thế, sản phẩm vẫn giữ được độ thơm ngon và hàm lượng chất xơ dồi dào từ yến mạch.",
+      "price": 140000,
+      "category": "Thực phẩm bổ sung"
+    },
+    {
+      "name": "Ngũ cốc yến mạch nguyên cám MacCereal ít đường bịch 480g",
+      "description": "Ngũ cốc yến mạch nguyên cám MacCereal ít đường 480g là sản phẩm ngũ cốc dinh dưỡng giảm 80% đường, bổ sung chất xơ hòa tan, cân bằng đường huyết và làm giảm nguy cơ mắc bệnh tim mạch, tiểu đường. Ngũ cốc yến mạch MacCereal rất thích hợp cho người ăn kiêng, tiểu đường.",
+      "price": 75000,
+      "category": "Thực phẩm bổ sung"
+    },
+    {
+      "name": "Gạo lứt hỗn hợp 10 loại hạt Ông Cụ hộp 1kg",
+      "description": "Gạo Ông Cụ là thương hiệu gạo chất lượng đạt chuẩn được nhiều bà nội trợ lựa chọn sử dụng. Gạo lứt hỗn hợp 10 loại hạt Ông Cụ hộp 1kg được sản xuất theo quy trình sản xuất gạo hiện đại an toàn. Gạo lứt chứa nhiều khoáng chất và vitamin rất cần thiết cho cơ thể.",
+      "price": 60000,
+      "category": "Ngũ cốc"
+    },
+    {
+      "name": "Gạo lứt tím Vinh Hiển túi 1kg",
+      "description": "Gạo lứt tím Vinh Hiển là giống gạo chất lượng, đạt chuẩn HACCP, vừa an toàn lại chứa nhiều chất xơ và hợp chất thực vật tốt cho sức khỏe. • Chứa Gaba, đây chính là chất hỗ trợ giảm nhẹ bệnh mất trí nhớ. • Chống oxy hóa mạnh, kháng viêm và làm giảm Axit Uric trong máu. • Bổ sung canxi, giúp hạn chế tình trạng loãng xương, và khiến xương bị gãy mau lành hơn.",
+      "price": 48000,
+      "category": "Ngũ cốc"
+    },
+    {
+      "name": "Orihiro Trà Hỗ Trợ Giảm Cân Diet Tea 8kg 36 Gói",
+      "description": "Được chiết xuất từ các loại thảo mộc thiên nhiên như lá sen, lúa mạch, trà Rooibos, và đậu đỏ. Không chứa chất bảo quản, chất tạo màu hoặc hương liệu nhân tạo, đảm bảo an toàn khi sử dụng lâu dài.",
+      "price": 500000,
+      "category": "Thực phẩm giảm cân"
+    },
+    {
+      "name": "Bột yến mạch nguyên cám MacCereal 500g",
+      "description": "Bột yến mạch nguyên cám MacCereal 500g là một loại bột ngũ cốc dinh dưỡng, có tác dụng giảm cân và làm đẹp da. Cung cấp hàm lượng chất xơ cao và vitamin E giúp bảo vệ làn da, hỗ trợ giảm mỡ thừa trong cơ thể.",
+      "price": 130000,
+      "category": "Thực phẩm bổ sung"
+    },
+    {
+      "name": "Bột sữa đậu nành Vinamilk 500g",
+      "description": "Bột sữa đậu nành Vinamilk 500g cung cấp nhiều protein thực vật, tốt cho người ăn kiêng và muốn duy trì vóc dáng. Sản phẩm không chứa đường và là lựa chọn lý tưởng cho những ai đang tìm kiếm một nguồn protein tự nhiên.",
+      "price": 72000,
+      "category": "Sữa"
+    },
+    {
+      "name": "Sữa bột hạt điều hạnh nhân Vinamilk 900g",
+      "description": "Sữa bột hạt điều hạnh nhân Vinamilk 900g là sản phẩm sữa hạt ngon miệng, bổ dưỡng, thích hợp cho người ăn kiêng, giảm cân và tăng cường sức khỏe.",
+      "price": 210000,
+      "category": "Sữa"
+    },
+    {
+      "name": "Thực phẩm hỗ trợ giảm cân Green Coffee 60 viên",
+      "description": "Thực phẩm hỗ trợ giảm cân Green Coffee là sản phẩm giảm cân an toàn với thành phần từ cà phê xanh nguyên chất giúp đốt cháy mỡ thừa, tăng cường trao đổi chất, giảm cảm giác thèm ăn.",
+      "price": 500000,
+      "category": "Thực phẩm giảm cân"
+    },
+    {
+      "name": "Bột giảm cân Herbalife 750g",
+      "description": "Bột giảm cân Herbalife 750g cung cấp các dưỡng chất thiết yếu cho cơ thể trong quá trình giảm cân, giúp bạn duy trì cảm giác no lâu và hạn chế cảm giác thèm ăn.",
+      "price": 1200000,
+      "category": "Thực phẩm giảm cân"
+    },
+    {
+      "name": "Nước ép detox giảm cân Love Natural 1L",
+      "description": "Nước ép detox Love Natural giúp thanh lọc cơ thể, cải thiện làn da và hỗ trợ quá trình giảm cân hiệu quả. Sản phẩm hoàn toàn từ trái cây thiên nhiên.",
+      "price": 65000,
+      "category": "Đồ uống dinh dưỡng"
+    }
+  ]
+}
