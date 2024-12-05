@@ -1,23 +1,23 @@
 {
   "store_name": "TAT STORE",
-  "description": "TAT Store chuyên cung cấp các sản phẩm thời trang chất lượng cao dành cho nam, nữ và phong cách unisex. Với đa dạng mẫu mã và thiết kế hiện đại, Fashion Store mang đến trải nghiệm mua sắm lý tưởng, phù hợp với mọi nhu cầu thời trang của bạn.",
+ "description": "TAT Store chuyên cung cấp các sản phẩm thời trang chất lượng cao dành cho nam, nữ và phong cách unisex. Với đa dạng mẫu mã và thiết kế hiện đại, Fashion Store mang đến trải nghiệm mua sắm lý tưởng, phù hợp với mọi nhu cầu thời trang của bạn.",
   "contact_info": {
     "address": "Bình Dương, Việt Nam",
     "phone": "0909009009",
     "email": "TATstore@gmail.com",
-    "website": "http://tatstore.com"
+    "website": "http://localhost/"
   },
- "products": [
+  "products": [
         {
           "name": "Áo sơ mi Nam MS1",
-          "description": "c",
-          "price": 3700000,
+          "description": "Áo sơ mi Nam MS1",
+          "price": 100000,
           "category": ["nam", "sơ mi"]
         },
         {
           "name": "Áo sơ mi Nam MS2",
           "description": "Áo sơ mi Nam MS2",
-          "price": 4300000,
+          "price": 200000,
           "category": ["nam", "sơ mi"]
         }
       ]
