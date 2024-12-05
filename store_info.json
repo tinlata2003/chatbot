@@ -1,11 +1,11 @@
 {
   "store_name": "MH STORE",
-  "description": "Cửa hàng giày số một Việt Nam. Ngoài việc mua hàng trực tuyến trên hệ thống website của chúng tôi, khách hàng có thể liên hệ và tìm đến cửa hàng để lựa chọn sản phẩm một cách thực tế nhất.",
+  "description": "MH STORE là địa chỉ tin cậy dành cho những tín đồ yêu thích giày thể thao và các sản phẩm giày cao cấp. Chúng tôi chuyên cung cấp các mẫu giày chạy bộ, giày thể thao thời trang và giày chuyên dụng cho các hoạt động thể thao, giúp bạn tối ưu hóa hiệu suất và duy trì sự thoải mái trong mỗi bước đi. Tại MH STORE, chúng tôi cam kết mang đến những sản phẩm chất lượng, đa dạng về kiểu dáng và kích cỡ, phù hợp với mọi nhu cầu của khách hàng.",
   "contact_info": {
     "address": "Thủ Dầu Một, Bình Dương",
     "phone": "0988888888",
     "email": "MHSTORE@gmail.com",
-    "website": "http://localhost/webquanao/"
+    "website": "http://localhost/"
   },
   "products": [
         {
