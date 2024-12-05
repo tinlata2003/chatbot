@@ -7,156 +7,18 @@
     "email": "TATstore@gmail.com",
     "website": "http://tatstore.com"
   },
-  "products": [
-    {
-      "name": "Áo thun basic nam",
-      "description": "Áo thun cotton 100%, thoáng mát, thiết kế trơn, có 5 màu: trắng, đen, xám, xanh navy, đỏ.",
-      "price": 150000,
-      "category": "Nam"
-    },
-    {
-      "name": "Áo sơ mi Oxford nam",
-      "description": "Chất liệu Oxford mềm mại, kiểu dáng slim fit, phù hợp cho cả công sở và dạo phố.",
-      "price": 300000,
-      "category": "Nam"
-    },
-    {
-      "name": "Quần short kaki nam",
-      "description": "Quần short kaki dài đến gối, 3 màu cơ bản: be, nâu, xanh navy, dễ phối đồ.",
-      "price": 250000,
-      "category": "Nam"
-    },
-    {
-      "name": "Áo khoác bomber nam",
-      "description": "Áo khoác bomber chất liệu dù chống nước nhẹ, lót lưới thoáng khí, phù hợp thời tiết mát mẻ.",
-      "price": 500000,
-      "category": "Nam"
-    },
-    {
-      "name": "Quần jeans nam slim fit",
-      "description": "Quần jeans xanh đậm, co giãn nhẹ, form slim fit tôn dáng, phù hợp phong cách casual.",
-      "price": 450000,
-      "category": "Nam"
-    },
-    {
-      "name": "Áo polo nam cao cấp",
-      "description": "Áo polo chất liệu cotton pique, cổ áo bẻ, phù hợp cả công việc lẫn hoạt động ngoài trời.",
-      "price": 350000,
-      "category": "Nam"
-    },
-    {
-      "name": "Quần tây nam công sở",
-      "description": "Quần tây dáng slim, màu đen và xám tro, chất liệu chống nhăn, thích hợp làm việc văn phòng.",
-      "price": 500000,
-      "category": "Nam"
-    },
-    {
-      "name": "Áo hoodie nam dáng rộng",
-      "description": "Áo hoodie nỉ dày dặn, màu sắc trẻ trung: xám, đen, đỏ đô, phù hợp mặc mùa đông.",
-      "price": 400000,
-      "category": "Nam"
-    },
-    {
-      "name": "Áo ba lỗ thể thao nam",
-      "description": "Áo ba lỗ chất liệu thun lạnh, thấm hút mồ hôi tốt, lý tưởng cho tập gym hoặc hoạt động ngoài trời.",
-      "price": 180000,
-      "category": "Nam"
-    },
-    {
-      "name": "Áo vest nam cao cấp",
-      "description": "Áo vest may đo tỉ mỉ, chất liệu wool blend, kiểu dáng sang trọng cho sự kiện và công sở.",
-      "price": 1200000,
-      "category": "Nam"
-    },
-    {
-      "name": "Đầm maxi hoa nhí",
-      "description": "Đầm maxi dài, in hoa nhí, chất liệu voan mềm mại, phù hợp cho dạo phố hoặc đi biển.",
-      "price": 450000,
-      "category": "Nữ"
-    },
-    {
-      "name": "Áo croptop trễ vai",
-      "description": "Áo croptop chất liệu thun co giãn, thiết kế trễ vai quyến rũ, có các màu: trắng, đỏ, đen.",
-      "price": 200000,
-      "category": "Nữ"
-    },
-    {
-      "name": "Quần culottes nữ",
-      "description": "Quần culottes ống rộng, chất liệu linen thoáng mát, có dây rút eo, phù hợp phong cách tối giản.",
-      "price": 300000,
-      "category": "Nữ"
-    },
-    {
-      "name": "Áo blazer nữ thời trang",
-      "description": "Áo blazer form rộng, chất liệu linen, màu be nhẹ nhàng, phù hợp mix cùng quần tây hoặc váy.",
-      "price": 700000,
-      "category": "Nữ"
-    },
-    {
-      "name": "Váy xòe nữ cổ điển",
-      "description": "Váy xòe ngang gối, họa tiết caro nhỏ, chất liệu cotton dày dặn, thích hợp cho phong cách vintage.",
-      "price": 500000,
-      "category": "Nữ"
-    },
-    {
-      "name": "Áo len mỏng nữ dài tay",
-      "description": "Áo len mỏng, cổ tròn, thích hợp mặc mùa thu, phối nhiều màu: hồng pastel, xám, trắng.",
-      "price": 300000,
-      "category": "Nữ"
-    },
-    {
-      "name": "Quần legging nữ thể thao",
-      "description": "Quần legging co giãn tốt, thiết kế ôm sát, có túi bên hông, lý tưởng cho tập gym hoặc yoga.",
-      "price": 250000,
-      "category": "Nữ"
-    },
-    {
-      "name": "Áo thun nữ in chữ cá tính",
-      "description": "Áo thun nữ cotton in chữ nổi bật, dáng oversized, màu sắc trẻ trung: vàng, hồng, xanh lá.",
-      "price": 180000,
-      "category": "Nữ"
-    },
-    {
-      "name": "Áo khoác cardigan nữ dáng dài",
-      "description": "Áo khoác cardigan len mỏng dáng dài, thích hợp mặc ngoài đầm hoặc áo thun.",
-      "price": 400000,
-      "category": "Nữ"
-    },
-    {
-      "name": "Váy bodycon nữ quyến rũ",
-      "description": "Váy bodycon ôm sát, chất liệu thun dày, phù hợp cho tiệc tùng và sự kiện.",
-      "price": 600000,
-      "category": "Nữ"
-    },
-    {
-      "name": "Áo thun unisex oversize",
-      "description": "Áo thun form rộng, unisex, phù hợp cả nam và nữ, chất liệu cotton thoáng mát.",
-      "price": 200000,
-      "category": "Unisex"
-    },
-    {
-      "name": "Áo hoodie unisex basic",
-      "description": "Hoodie trơn, kiểu dáng unisex, chất liệu nỉ ấm áp, đa dạng màu sắc: đen, trắng, xanh rêu.",
-      "price": 450000,
-      "category": "Unisex"
-    },
-    {
-      "name": "Quần jogger unisex",
-      "description": "Quần jogger kaki, cạp chun, ống bo, phù hợp cả nam và nữ cho phong cách năng động.",
-      "price": 350000,
-      "category": "Unisex"
-    },
-    {
-      "name": "Áo khoác dù unisex chống gió",
-      "description": "Áo khoác dù nhẹ, unisex, chống gió và nước nhẹ, thiết kế phù hợp với mọi hoạt động.",
-      "price": 500000,
-      "category": "Unisex"
-    },
-    {
-      "name": "Áo sơ mi oversize unisex",
-      "description": "Áo sơ mi form rộng, unisex, chất liệu cotton thoáng mát, phù hợp phong cách streetwear.",
-      "price": 300000,
-      "category": "Unisex"
-    }
-  ]
+ "products": [
+        {
+          "name": "Áo sơ mi Nam MS1",
+          "description": "c",
+          "price": 3700000,
+          "category": ["nam", "sơ mi"]
+        },
+        {
+          "name": "Áo sơ mi Nam MS2",
+          "description": "Áo sơ mi Nam MS2",
+          "price": 4300000,
+          "category": ["nam", "sơ mi"]
+        }
+      ]
 }
