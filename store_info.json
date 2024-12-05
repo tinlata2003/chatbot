@@ -1,0 +1,28 @@
+{
+  "store_name": "MH STORE",
+  "description": "Cửa hàng giày số một Việt Nam. Ngoài việc mua hàng trực tuyến trên hệ thống website của chúng tôi, khách hàng có thể liên hệ và tìm đến cửa hàng để lựa chọn sản phẩm một cách thực tế nhất.",
+  "contact_info": {
+    "address": "Thủ Dầu Một, Bình Dương",
+    "phone": "0988888888",
+    "email": "MHSTORE@gmail.com",
+    "website": "http://localhost/webquanao/"
+  },
+  "products": [
+    {
+      "products": [
+        {
+          "name": "Nike Air Zoom Pegasus 39",
+          "description": "Giày chạy bộ Nike",
+          "price": 3700000,
+          "category": ["nike", "giày chạy bộ"]
+        },
+        {
+          "name": "Adidas Ultraboost 22",
+          "description": "Giày chạy bộ Adidas",
+          "price": 4300000,
+          "category": ["Adidas", "giày chạy bộ"]
+        }
+      ]
+    }
+  ]
+}
