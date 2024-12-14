@@ -3,162 +3,22 @@
   "description": "Cửa hàng giày số một Việt Nam. Ngoài việc mua hàng trực tuyến trên hệ thống website của chúng tôi, khách hàng có thể liên hệ và tìm đến cửa hàng để lựa chọn sản phẩm một cách thực tế nhất.",
   "contact_info": {
     "address": "Thủ Dầu Một, Bình Dương",
-    "phone": "0388184340",
+    "phone": "0988888888",
     "email": "MHSTORE@gmail.com",
     "website": "http://localhost/webquanao/"
   },
   "products": [
         {
           "name": "Nike Air Zoom Pegasus 39",
-          "description": "Giày chạy bộ Nike Air Zoom Pegasus 39 phiên bản này được thiết kế để mang lại cảm giác hỗ trợ và cố định bàn chân chắc chắn, với lớp đệm dưới chân cùng công nghệ Zoom Air giúp tạo sự thoải mái trong từng bước di chuyển. Lớp đệm ở phần lưỡi gà và cổ giày mang đến sự êm ái, trong khi thiết kế lưới thoáng khí giúp giữ cho bàn chân luôn khô ráo. Công nghệ Flywire được tích hợp với dải đệm giữa bàn chân để hỗ trợ và cố định bàn chân ở đúng vị trí. Công nghệ Nike React, loại bọt nhẹ, bền và đàn hồi, kết hợp với Zoom Air ở bàn chân trước và gót chân, mang lại cảm giác êm ái và đầy năng lượng.",
-          "price": 3400000,
+          "description": "Giày chạy bộ Nike",
+          "price": 3700000,
           "category": ["nike", "giày chạy bộ"]
         },
         {
           "name": "Adidas Ultraboost 22",
-          "description": "Giày chạy bộ Adidas Ultraboost 22 thân giày adidas PRIMEKNIT với thiết kế phần gót thon gọn hơn để tránh tuột gót và phồng rộp. Đế giữa BOOST nâng đỡ êm ái với hệ thống Linear Energy Push. Thân giày làm từ loại sợi có chứa 50% chất liệu Parley Ocean Plastic - rác thải nhựa tái chế thu gom từ các vùng đảo xa, bãi biển, khu dân cư ven biển và đường bờ biển, nhằm ngăn chặn ô nhiễm đại dương.",
-          "price": 5000000,
+          "description": "Giày chạy bộ Adidas",
+          "price": 4300000,
           "category": ["Adidas", "giày chạy bộ"]
         }
-        {
-          "name": "Asics Gel-Kayano 29",
-          "description": "Giày chạy bộ Asics Gel-Kayano 29 tạo ra trải nghiệm chạy ổn định và cảm giác nhạy bén hơn dưới chân.​ Với bộ đếm gót bên ngoài cấu hình thấp, mẫu giày này nâng niu bàn chân của bạn một cách thoải mái với hỗ trợ chân sau tiên tiến.​ Chúng tôi cũng đã cập nhật đế giữa bằng FF BLAST ™ PLUS đệm. Điều này giúp giữ cho giày nhẹ trong khi tạo ra sức bật mạnh mẽ hơn trong mỗi bước. ",
-          "price": 4200000,
-          "category": ["Asics", "giày chạy bộ"]
-        }
-        {
-          "name": "New Balance Fresh Foam 1080v12",
-          "description": "Giày chạy bộ New Balance Fresh Foam 1080v12 là một trong những đôi giày chạy bộ hàng đầu của New Balance, mang đến trải nghiệm chạy êm ái và thoải mái tuyệt vời. Với công nghệ đệm Fresh Foam X tiên tiến, giày tạo cảm giác nhẹ nhàng và êm ái như đang chạy trên mây. Đệm Fresh Foam được thiết kế để hấp thụ lực tác động, giúp giảm căng thẳng cho cơ bàn chân và mang lại sự đàn hồi, hỗ trợ tối đa trong các cuộc chạy dài.",
-          "price": 1900000,
-          "category": ["New Balance", "giày chạy bộ"]
-        }
-        {
-          "name": "Puma Deviate Nitro",
-          "description": "Giày chạy bộ Puma Deviate Nitro là một đôi giày chạy bộ với thiết kế hiện đại và tích hợp nhiều công nghệ tiên tiến. Được phát triển để cung cấp hiệu suất tối ưu trong mọi hoạt động chạy, từ chạy dễ dàng đến chạy nhanh và thậm chí là các cuộc đua. Đôi giày này không chỉ có thiết kế bắt mắt mà còn mang đến sự thoải mái và hỗ trợ đáng kể cho người sử dụng. Sử dung bọt NITRO Elite loại bọt có trọng lượng nhẹ, hấp thụ lực tốt tạo cả giác êm ái ngay khi xỏ chân vào. Trong các mẫu giày cùng phân khúc thì Deviate",
-          "price": 2000000,
-          "category": ["Puma", "giày chạy bộ"]
-        }
-        {
-          "name": "Nike Metcon 8",
-          "description": "Giày tập gym Nike Metcon 8 được làm từ chất liệu da cao cấp bền đẹp trong suốt quá trình sử dụng, lớp lót mềm mại giúp giảm thiểu chấn thương khi di chuyển hoặc hoạt động, đồng thời mang lại cảm giác thoải mái, dễ chịu cho người sử dụng. Không chỉ vậy, phần đế còn được gia công từ chất liệu cao su giúp hạn chế trơn trượt và có độ đàn hồi cực tốt.  Mẫu giày tập luyện phù hợp của chúng tôi có phần trên nhẹ hơn, thoáng khí hơn so với phiên bản trước của chúng tôi để bổ sung cho các tiêu chuẩn về độ bền và sự thoải mái của chúng tôi, để bạn có thể tập luyện nhịp tim, tăng sức mạnh nhờ các động tác nâng và làm chủ bài tập của mình.",
-          "price": 4300000,
-          "category": ["Nike", "giày tập gym"]
-        }
-        {
-          "name": "Reebok Nano X2",
-          "description": "Giày tập gym Reebok Nano X2 được thiết kế để trở thành người bạn đồng hành từ động tác squat đến động tác gập bụng hay các bài tập cường độ cao. Hãy sở hữu đôi giày tập luyện nam Reebok Nano X2 này để luôn tự tin trong hoặc ngoài phòng tập. Mặt giày sử dụng công nghệ dệt số 8 kỹ thuật Flexweave (TM) không đường khâu hỗ trợ thoáng khí và tăng độ bền, bật tung sức mạnh và thoải mái sáng tạo. Đế giày độ bám cao mang lại cảm giác chắc chắn cho một loạt các chuyển động. ",
-          "price": 3100000,
-          "category": ["Reebok", "giày tập gym"]
-        }
-        {
-          "name": "Under Armour HOVR Rise 4",
-          "description": "Giày tập gym Under Armour HOVR Rise 4 Sử dụng loại dây giày tiêu chuẩn Mặt trên bằng lưới thoáng khí với khả năng co giãn và cấu trúc phù hợp với nhu cầu của bạn Kết cấu vải và ren để cố định và hỗ trợ ở giữa bàn chân Dây đeo TPU đúc từ gót chân đến giữa bàn chân để ổn định & khóa gót chân của bạn đồng thời cho phép di chuyển bàn chân trước Đệm UA HOVR™ có khả năng phản hồi giúp giảm tác động, hoàn trả năng lượng và giúp đẩy bạn về phía trước Bọt UA HOVR™ được chứa trong đế giữa EVA vững chắc hơn để mang lại sự kết hợp hoàn hảo giữa sự thoải mái và hiệu suất .Đế ngoài cao su mềm giúp hỗ trợ chịu lực. ",
-          "price": 2500000,
-          "category": ["Under Armour", "giày tập gym"]
-        }
-        {
-          "name": "Adidas Adipower Weightlifting II",
-          "description": "Giày tập gym Adidas Adipower Weightlifting II  là đôi giày cử tạ cao cấp, được thiết kế để tối ưu hóa hiệu suất trong các bài tập nâng tạ. Với sự kết hợp giữa dây đeo móc và vòng, cùng phần ren chắc chắn, giày mang lại sự ổn định tối đa và đảm bảo đôi chân luôn được cố định chắc chắn trong suốt quá trình tập luyện. Phần thân trên của giày được làm từ chất liệu vải dệt thoáng khí, giúp lưu thông không khí và giữ cho bàn chân luôn khô thoáng. Đế giữa của giày được thiết kế với độ bền cao, không bị nén khi nâng tạ, mang lại nền tảng vững chắc và an toàn. ",
-          "price": 3100000,
-          "category": ["Adidas", "giày tập gym"]
-        }
-         {
-          "name": "New Balance Minimus TR",
-          "description": "Giày tập gym New Balance Minimus TR cho dù bạn đang nâng tạ hay thực hiện các bài tập HIIT hàng tuần, giày tập luyện Minimus TR đa năng của chúng tôi đều mang đến sự hỗ trợ thoải mái với cảm giác nhẹ nhàng. Lớp lót cao cấp cho phép bạn tập luyện mà không cần mang tất, đảm bảo sự thoải mái mát mẻ sau mỗi buổi tập luyện chăm chỉ. Thiết kế sử dụng TPU mang lại độ bền và khả năng hỗ trợ ấn tượng với lớp đệm nâng cao mà không ảnh hưởng đến độ ổn định và phù hợp cho nhiều loại bài tập",
-          "price": 1800000,
-          "category": ["New Balance", "giày tập gym"]
-        }
-        {
-          "name": "Nike Air Zoom Freak 4",
-          "description": "Giày bóng rổ Nike Air Zoom Freak 4 có thiết kế đẹp mắt, với nhiều đường nét chắc chắn và độc đáo. Điểm nổi bật của giày này là công nghệ Zoom Air của Nike, giúp tăng cường độ đàn hồi và khả năng phản lực của giày, đồng thời giảm thiểu tối đa áp lực và giảm độ rung của giày khi vận động. Và được thiết kế với đế giày cao su chắc chắn, giúp tăng độ bám trên mặt sân và cải thiện tính ổn định cho người mang. Đồng thời, phần trên giày được làm bằng chất liệu vải và da tổng hợp cao cấp, giúp giảm thiểu cảm giác khó chịu khi mang giày và cải thiện độ bền của sản phẩm. ",
-          "price": 3300000,
-          "category": ["Nike", "giày bóng rổ"]
-        }
-        {
-          "name": "Adidas Harden Vol.7",
-          "description": "Giày bóng rổ Adidas Harden Vol.7 thân giày có thiết kế táo bạo mượn cảm hứng từ chiếc áo phao mùa đông, cùng các chi tiết hỗ trợ chuyển động bùng nổ trên sân. Đế giữa kết hợp đệm BOOST và Lightstrike siêu nhẹ mà ngập tràn năng lượng, đồng thời vân bám hỗ trợ từng cú bật nhảy, cắt bóng hay đổi hướng và hỗ trợ tốt trong việc kiểm soát bóng.Từ cú stepback hủy diệt tới niềm đam mê thời trang xa xỉ, tất cả đều thể hiện rằng James Harden rất có phong cách.",
-          "price": 4000000,
-          "category": ["Adidas", "giày bóng rổ"]
-        }
-        {
-          "name": "Jordan Why Not Zer0.5",
-          "description": "Giày bóng rổ Jordan Why Not Zer0.5 chơi tốt các mặt sân Indoor và Outdoor. Tuy nhiên vẫn nên chơi ở sân có bề mặt không quá nhám như sân tennis, hạn chế chơi sân có bề mặt xấu. Đôi giày này phù hợp với sự nhanh nhạy của anh ấy với đệm được cập nhật, lực kéo được thông báo dữ liệu và hệ thống phù hợp với toàn bộ bàn chân để giúp anh ấy luôn kiểm soát được. Với vẻ ngoài tiện dụng chắc chắn kết hợp với sự kết hợp có chủ đích giữa màu sắc và chất liệu. ",
-          "price": 3300000,
-          "category": ["Jordan Brand", "giày bóng rổ"]
-        }
-         {
-          "name": "Under Armour Curry 9",
-          "description": "Giày bóng rổ Under Armour Curry 9 Công nghệ UA WARP ở phần trên (upper) cung cấp sự thoải mái và kiểm soát nâng cao trong suốt các chuyển động bóng rổ năng động.Lưỡi gà thiết kế lưới thoáng khí với mấu kéo để dễ dàng mang vào .Cổ giày đúc được tích hợp vào phía trên để tạo sự thoải mái tối đa.Công nghệ đệm UA Flow siêu nhẹ, nảy và mang lại độ bám tuyệt vời. ",
-          "price": 4400000,
-          "category": ["Under Armour", "giày bóng rổ"]
-        }
-        {
-        "name": "Puma Clyde All-Pro",
-          "description": "Giày bóng rổ Puma Clyde All-Pro sử dụng chất liệu Matryx nhẹ, thoáng khí nhưng không mất đi độ bền. Với thiết kế đan xen liền mạch, điều này sẽ giúp đôi giày trở nên chắc chắn nhưng vẫn đảm bảo được độ thông thoáng khí và thoải mái, nhẹ nhàng khi đi vào. Phiên bản Clyde All Pro với sự trang bị chỉn chu của công nghệ Full-Length Pro-Foam+ siêu nhẹ và có độ đàn hồi vừa đủ để cảm nhận tối đa mặt sân, kết hợp với miếng lót có tên Pebax ở phần gót giày, giúp ổn định hiệu năng mà bộ đệm mang lại. Toàn bộ phần Traction được làm từ cao su cứng với thiết kế vân đế chia làm 2 nửa. Phần trên của vấn đế được kết hợp từ vân ngang, dọc xen kẽ trong khi đó kéo xuống nửa dưới là bộ vân đa hướng giúp người chơi có thể chuyển động linh hoạt hơn trong các bước di chuyển hay đổi hướng đột ngột.",
-          "price": 3200000,
-          "category": ["Puma", "giày bóng rổ"]
-        }
-        {
-        "name": "Nike Mercurial Vapor 15 Elite FG",
-          "description": "Giày bóng đá Nike Mercurial Vapor 15 Elite FG là mẫu giày cao cấp dành riêng cho sân cỏ tự nhiên 11 người, nổi bật với thiết kế mạnh mẽ cùng gam màu đen chủ đạo kết hợp biểu tượng Swoosh xanh dương, tạo điểm nhấn với các chi tiết Chrome/Hyper Royal trên thân giày và đế, làm nổi bật công nghệ Air Zoom. Công nghệ Zoom Air đặc trưng giúp hỗ trợ đàn hồi vượt trội, đặc biệt hiệu quả khi tăng tốc, mang đến cảm giác chạy nhẹ nhàng và tiết kiệm năng lượng. Phần upper của giày được làm từ chất liệu Vaporposite+ dệt tổng hợp bền bỉ, co giãn linh hoạt, giúp người chơi cảm nhận bóng chân thực nhất. Đế giày với thiết kế đinh tán ba ngôi cung cấp lực kéo đa hướng tuyệt vời, giúp người chơi bám sân tốt hơn và tăng tốc, xoay chuyển linh hoạt trong các tình huống thi đấu.",
-          "price": 4390000,
-          "category": ["Nike", "giày bóng đá"]
-        }
-        {
-        "name": "Adidas Predator Edge.1 FG",
-          "description": "Giày bóng đá Adidas Predator Edge.1 FG là mẫu giày đá bóng cổ thấp được thiết kế để mang đến khả năng kiểm soát bóng vượt trội và sức mạnh tối đa. Với thiết kế giúp người chơi làm chủ từng cú chạm bóng và đảo hướng thần tốc, đôi giày này phù hợp cho sân cỏ tự nhiên và lý tưởng cho các vị trí tiền vệ và hậu vệ. Phần upper Zone Skin có các vùng gân sọc ẩn, mỗi vùng hỗ trợ cho một kiểu chạm bóng khác nhau, giúp nâng cao khả năng kiểm soát bóng. Khung Power Facet được đặt ở phần mũi giày, chuyển trọng tâm về phía trước, giúp tạo nên những cú sút mạnh mẽ và chính xác. Cổ giày adidas PRIMEKNIT linh hoạt, ôm sát chân, mang lại cảm giác thoải mái và chắc chắn khi di chuyển. Đế ngoài được thiết kế phù hợp với sân cỏ tự nhiên, hỗ trợ người chơi tăng độ bám và ổn định khi thi đấu.",
-          "price": 2250000,
-          "category": ["Adidas", "giày bóng đá"]
-        }
-        {
-        "name": "Puma Future Z 1.4 FG/AG",
-          "description": "Giày bóng đá Puma Future Z 1.4 FG/AG nổi bật với gam màu Fiery Coral (cam ánh hồng) bao phủ toàn bộ bề mặt giày, tạo nên vẻ ngoài cuốn hút và hiện đại. Các chi tiết dạng mũi tên nhỏ chạy theo các đường song song từ phần upper đến khuôn đế, tạo hiệu ứng thị giác bắt mắt và tăng cảm giác tốc độ cho người mang. Đặc biệt, họa tiết Formstripe đặc trưng của Puma được bố trí trên má ngoài giày, làm nổi bật tính thẩm mỹ và đặc trưng của dòng giày này. Bộ đế giày cũng được phối màu tương tự với phần upper, mang đến sự liền mạch và đồng nhất trong thiết kế.",
-          "price": 2800000,
-          "category": ["Puma", "giày bóng đá"]
-        }
-        {
-        "name": "New Balance Furon V7 Pro FG",
-          "description": "Giày bóng đá New Balance Furon V7 Pro FG là mẫu giày bóng đá được ưa chuộng bởi các cầu thủ nhờ thiết kế siêu nhẹ và phần upper mềm mại, giúp tối ưu hóa tốc độ trên sân. Đôi giày này đặc biệt nổi bật với khả năng tăng tốc vượt trội, và khi nhắc đến NB Furon, người ta không thể không nhắc đến những pha leo biên nhanh như chớp của ngôi sao người Senegal, Sadio Mané. Phần upper của giày được làm từ chất liệu Synthetic (da tổng hợp) dệt mỏng, có độ nhám cao, giúp tăng cường khả năng kiểm soát bóng và kiểm soát tốc độ trong các tình huống thi đấu. Hệ thống đinh mũi tên hiện đại được thiết kế để tối ưu hóa khả năng tăng tốc, giúp cầu thủ dễ dàng bứt phá. Đế giày làm từ nhựa nylon siêu nhẹ mang lại cảm giác thanh thoát và thoải mái, giúp người chơi di chuyển linh hoạt hơn bao giờ hết.",
-          "price": 3300000,
-          "category": ["New Balance", "giày bóng đá"]
-        }
-         {
-        "name": "Under Armour Clone Magnetico Pro 2.0 FG",
-          "description": "Giày bóng đá Under Armour Clone Magnetico Pro 2.0 FG sở hữu diện mạo bắt mắt với tông màu cam rực rỡ làm chủ đạo, kết hợp cùng các chi tiết màu đen tạo nên sự nổi bật. Phần upper được làm từ chất liệu da tổng hợp siêu mỏng, mang lại cảm giác dễ chịu và thoải mái cho đôi chân. Dựa trên sự thành công của mẫu giày tiền nhiệm Under Armour Magnetico Pro, phiên bản mới này đã có những cải tiến đáng kể với bề mặt được chần bông, vừa mang lại độ êm ái, vừa cải thiện khả năng cảm nhận bóng. Phần upper còn được thiết kế với các gờ nổi và hệ thống đường may dày đặc, khéo léo sắp xếp để tạo vẻ ngoài gọn gàng, không gây rối mắt cho người đối diện. Các gờ chần bông liên kết với nhau cùng hệ thống chấm kết cấu giúp tăng độ bám khi chạm bóng, tối ưu hóa khả năng kiểm soát bóng. Phần đế FG trang bị 13 đinh trụ truyền thống, giúp người chơi thể hiện kỹ năng một cách linh hoạt và hiệu quả trên bề mặt sân cỏ nhân tạo.",
-          "price": 4700000,
-          "category": ["Under Armour", "giày bóng đá"]
-        }
-         {
-        "name": "Nike Air Zoom Vapor Pro",
-          "description": "Giày tennis Nike Air Zoom Vapor Pro tái tạo tất cả các đặc điểm của Vapor X, nhưng với thiết kế nhẹ hơn, mang lại sự hỗ trợ cao hơn và đảm bảo khả năng thoáng khí, độ ổn định và khả năng chống chịu với trọng lượng tối thiểu. Đế thích hợp cho sân cứng.Lưới hai lớp ở trên, được gia cố ở bên trong để hỗ trợ thêm, và mỏng và linh hoạt ở bên ngoài để có độ bền lý tưởng.Viền không đối xứng bao bọc và hỗ trợ bàn chân trong các chuyển động bên. Các dầm giữa được tráng để chống trượt tốt hơn. Đế có ít cao su hơn ở những khu vực ít bị mài mòn để giảm trọng lượng đến mức tối thiểu. Cấu trúc gia cố toàn bộ chiều dài ở bên để ổn định khi thay đổi hướng nhanh chóng.Đế trong có thể tháo rời và bộ phận Nike Zoom Air được tạo thành từ đệm phẳng và không biến dạng, đảm bảo đệm nhẹ và siêu nhạy. Hỗ trợ các pha di chuyển ngang nhanh chóng.",
-          "price": 3500000,
-          "category": ["Nike", "giày tennis"]
-        }
-        {
-        "name": "Adidas Barricade",
-          "description": "Giày tennis Adidas Barricade là đôi giày sân cứng nâng đỡ có sử dụng chất liệu tái chế. Thể hiện bản sắc của bạn. Đồng hành cùng các vận động viên của adidas tại giải đấu hàng đầu vùng nam bán cầu, đôi giày tennis này nằm trong một bộ sưu tập rực rỡ nhằm nêu bật những hậu quả của biến đổi khí hậu. Hệ thống dây giày tiện dụng kết hợp cùng các vùng Sensepod lấp đầy mọi khoảng trống ở gót giày giúp đôi chân bạn hòa làm một cùng đôi giày. Bên dưới là đế giữa Bounce êm ái và phần shank bằng TPU giữa bàn chân mang lại sự thoải mái và ổn định. Thân giày có chứa tối thiểu 50% thành phần tái chế. Thân giày bằng vải dệt và đế ngoài Adiwear. Hỗ trợ tốt cho các cú giao bóng và di chuyển trên sân.",
-          "price": 3800000,
-          "category": ["Adidas", "giày tennis"]
-        }
-        {
-        "name": "Asics Gel-Resolution 8",
-          "description": "Giày tennis Asics Gel-Resolution 8 thúc đẩy một bước tiến nhanh nhạy với cảm giác gần gũi hơn bề mặt sân đấu. Phần trên Flexion Fit cung cấp hỗ trợ phù hợp với sự tích hợp của công nghệ Dynawall, cung cấp thêm sự ổn định giữa bàn chân trong các chuyển động bên và vùng phủ bên ngoài từ đầu đến gót chân. Nổi tiếng với lớp đệm dựa trên công nghệ GEL đặc trưng ở gót chân và giữa bàn chân, đôi giày này làm giảm đáng kể tác động của cú sốc từ việc dừng đột ngột và di chuyển trên sân. Ngoài ra, mô hình cũng kết hợp hợp chất AHAR ở đế ngoài hoạt động cùng với bộ bảo vệ ngón chân PGUARD để tăng lực kéo trên sân và giảm mức độ hao mòn chung. Tạo ra một phản ứng tăng tốc với cảm giác gần gũi tự nhiên",
-          "price": 1500000,
-          "category": ["Asics", "giày tennis"]
-        }
-         {
-        "name": "New Balance Lav Fresh Foam",
-          "description": "Giày tennis New Balance Lav Fresh Foam là mẫu giày tennis hàng đầu dành cho các vận động viên chuyên nghiệp và người chơi tennis thường xuyên. Được thiết kế với công nghệ DYNAWALL và DYNAWRAP, giày mang lại sự ổn định vượt trội khi di chuyển ngang và trong những pha trượt chân trên sân. Phần đệm GEL ở gót và mũi giúp giảm chấn, tạo cảm giác êm ái khi tiếp đất, đồng thời tăng cường sự thoải mái trong suốt trận đấu kéo dài. Đế ngoài được làm từ cao su AHAR bền bỉ, giúp tăng độ bám trên mọi mặt sân, và lớp vải Flexion Fit phía trên giúp ôm chân chắc chắn nhưng vẫn linh hoạt. Đây là lựa chọn lý tưởng cho những ai cần một đôi giày bền, êm ái và hỗ trợ tốt cho các động tác di chuyển nhanh.",
-          "price": 1400000,
-          "category": ["New Balance", "giày tennis"]
-        }
-        {
-        "name": "Babolat Jet Mach III",
-          "description": "Giày tennis Babolat Jet Mach III là mẫu giày tennis cao cấp được thiết kế để tối ưu tốc độ và độ linh hoạt cho các vận động viên chuyên nghiệp. Với trọng lượng nhẹ nhờ chất liệu Matryx® sợi Kevlar và Polyamide, giày mang lại sự thoải mái và hỗ trợ tối đa mà không làm giảm độ bền. Đế ngoài sử dụng công nghệ Michelin Premium giúp tăng độ bám và khả năng chống mài mòn, đặc biệt thích hợp cho các mặt sân cứng.",
-          "price": 1200000,
-          "category": ["Babolats", "giày tennis"]
-        }
-
-
       ]
 }
