@@ -1,0 +1,66 @@
+{
+  "store_name": "NHT SHOP",
+  "description": "NHT SHOP là cửa hàng chuyên cung cấp các sản phẩm quần áo nam chất lượng cao, bao gồm áo sơ mi, áo thun, quần jean, quần tây và phụ kiện thời trang. Chúng tôi cam kết mang đến cho khách hàng sự thoải mái, phong cách và phù hợp với xu hướng thời trang hiện đại. NHT SHOP luôn chú trọng đến chất lượng sản phẩm và dịch vụ, nhằm đáp ứng tốt nhất nhu cầu của khách hàng nam giới trong mọi hoàn cảnh.",
+  "contact_info": {
+    "address": "Quận 1, TP. Hồ Chí Minh",
+    "phone": "0987654321",
+    "email": "nhtshop@gmail.com",
+    "website": "http://localhost/"
+  },
+  "products": [
+    {
+      "name": "Áo sơ mi trắng NHT SHOP",
+      "description": "Áo sơ mi trắng NHT SHOP được làm từ chất liệu cotton cao cấp, tạo cảm giác thoải mái và dễ chịu khi mặc. Sản phẩm phù hợp cho các buổi họp, làm việc hoặc đi tiệc.",
+      "price": 300000,
+      "category": ["Áo sơ mi", "Thời trang nam"]
+    },
+    {
+      "name": "Áo thun basic NHT SHOP",
+      "description": "Áo thun basic NHT SHOP với thiết kế đơn giản, trẻ trung, chất liệu co giãn thoáng mát, là lựa chọn hoàn hảo cho các hoạt động hằng ngày hoặc đi chơi.",
+      "price": 200000,
+      "category": ["Áo thun", "Thời trang nam"]
+    },
+    {
+      "name": "Quần jean slim-fit NHT SHOP",
+      "description": "Quần jean slim-fit NHT SHOP được thiết kế hiện đại, vừa vặn cơ thể, chất liệu denim bền bỉ và thoải mái, phù hợp cho phong cách năng động và cá tính.",
+      "price": 500000,
+      "category": ["Quần jean", "Thời trang nam"]
+    },
+    {
+      "name": "Quần tây công sở NHT SHOP",
+      "description": "Quần tây công sở NHT SHOP mang phong cách lịch lãm, được may từ chất liệu cao cấp, đảm bảo sự sang trọng và thoải mái trong mọi tình huống công việc.",
+      "price": 450000,
+      "category": ["Quần tây", "Thời trang nam"]
+    },
+    {
+      "name": "Áo khoác bomber NHT SHOP",
+      "description": "Áo khoác bomber NHT SHOP với thiết kế thời thượng, chất liệu chắn gió tốt, thích hợp cho những ngày thời tiết se lạnh hoặc dùng để tạo điểm nhấn cho phong cách của bạn.",
+      "price": 700000,
+      "category": ["Áo khoác", "Thời trang nam"]
+    },
+    {
+      "name": "Thắt lưng da NHT SHOP",
+      "description": "Thắt lưng da NHT SHOP được làm từ da thật, thiết kế tinh tế, phù hợp để phối với các loại quần tây, quần jean, mang lại vẻ nam tính và lịch lãm.",
+      "price": 250000,
+      "category": ["Phụ kiện", "Thời trang nam"]
+    },
+    {
+      "name": "Giày thể thao NHT SHOP",
+      "description": "Giày thể thao NHT SHOP có thiết kế trẻ trung, năng động, được làm từ chất liệu bền bỉ, mang đến sự thoải mái khi di chuyển suốt cả ngày dài.",
+      "price": 800000,
+      "category": ["Giày", "Thời trang nam"]
+    },
+    {
+      "name": "Áo vest công sở NHT SHOP",
+      "description": "Áo vest công sở NHT SHOP được may đo chuẩn dáng, chất liệu cao cấp, tạo phong cách lịch lãm và chuyên nghiệp cho các dịp đặc biệt hoặc đi làm.",
+      "price": 1200000,
+      "category": ["Áo vest", "Thời trang nam"]
+    },
+    {
+      "name": "Cà vạt silk NHT SHOP",
+      "description": "Cà vạt silk NHT SHOP với chất liệu lụa mềm mại, màu sắc tinh tế, là phụ kiện không thể thiếu để hoàn thiện phong cách công sở của bạn.",
+      "price": 150000,
+      "category": ["Phụ kiện", "Thời trang nam"]
+    }
+  ]
+}
