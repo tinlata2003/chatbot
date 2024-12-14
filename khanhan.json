@@ -1,6 +1,6 @@
 {
   "store_name": "KA FOOD",
-  "description": "KA FOOD là một cửa hàng chuyên cung cấp các sản phẩm thực phẩm chất lượng cao, bao gồm các nguyên liệu chế biến món ăn, thực phẩm chế biến sẵn, và các sản phẩm dinh dưỡng. Chúng tôi cam kết mang đến cho khách hàng những sản phẩm tươi ngon, an toàn và giàu dinh dưỡng, phù hợp với nhu cầu của mọi gia đình và doanh nghiệp. Với mục tiêu mang lại sự tiện lợi và sức khỏe cho người tiêu dùng, KA FOOD luôn chú trọng đến chất lượng và dịch vụ, tạo dựng niềm tin vững chắc từ khách hàng.",
+  "description": "KA FOOD là cửa hàng chuyên cung cấp các món ăn nhanh ngon miệng và chất lượng, bao gồm các loại burger, gà rán, khoai tây chiên, pizza và các đồ uống giải khát. Chúng tôi cam kết mang đến cho khách hàng những món ăn tươi ngon, tiện lợi và hợp khẩu vị, đáp ứng nhu cầu ăn uống nhanh chóng cho mọi gia đình và văn phòng. KA FOOD luôn chú trọng đến chất lượng nguyên liệu và dịch vụ, tạo dựng niềm tin với khách hàng.",
   "contact_info": {
     "address": "Thủ Dầu Một, Bình Dương",
     "phone": "0122345678",
@@ -9,94 +9,58 @@
   },
   "products": [
     {
-      "name": "Thực phẩm bổ sung yến mạch hạt chia Best Choice gói 240g",
-      "description": "Thực phẩm bổ sung yến mạch hạt chia Best Choice không chỉ mang lại hương vị thơm ngon mà còn có nhiều lợi ích cho sức khỏe: • Cung cấp năng lượng: Sản phẩm chứa nhiều carbohydrate phức tạp từ vảy ngũ cốc và bột gạo, giúp cung cấp năng lượng bền vững cho cơ thể. • Hỗ trợ phát triển cơ bắp: Đạm sữa và bột đậu nành cung cấp protein cần thiết cho việc xây dựng và duy trì cơ bắp. • Cải thiện tiêu hóa: Yến mạch và hạt chia là nguồn cung cấp chất xơ phong phú, giúp cải thiện hệ tiêu hóa, ngăn ngừa táo bón. • Tăng cường sức khỏe xương: Sữa bột và canxi trong sản phẩm giúp phát triển xương chắc khỏe, ngăn ngừa loãng xương. • Thúc đẩy miễn dịch: Các dưỡng chất trong sản phẩm giúp tăng cường hệ miễn dịch, bảo vệ cơ thể khỏi các bệnh tật.",
-      "price": 50000,
-      "category": ["Thực phẩm bổ sung", "Ngũ cốc"]
+      "name": "Burger thịt bò phô mai KA FOOD",
+      "description": "Burger thịt bò phô mai KA FOOD là sự kết hợp hoàn hảo giữa miếng thịt bò tươi ngon, phô mai tan chảy và các loại rau tươi, kèm theo sốt đặc biệt tạo nên hương vị đậm đà, hấp dẫn. Lý tưởng cho bữa ăn nhanh và đầy đủ dinh dưỡng.",
+      "price": 35000,
+      "category": ["Burger", "Món ăn nhanh"]
     },
     {
-      "name": "Thùng 24 hộp sữa hạt cao đạm Vinamilk ít đường 180ml",
-      "description": "Thùng 24 hộp sữa hạt cao đạm Vinamilk ít đường 180ml là sản phẩm sữa hạt với vị ngon kết hợp từ 7 loại hạt cao cấp với chủ đạo từ đạm đậu Hà Lan. Sữa hạt Vinamilk cao đạm ít đường hỗ trợ duy trì, phát triển cơ bắp, giúp hệ xương vững chắc.",
-      "price": 327000,
-      "category": ["Đồ uống dinh dưỡng", "Sữa hạt"]
+      "name": "Gà rán giòn KA FOOD",
+      "description": "Gà rán giòn KA FOOD được chế biến từ gà tươi, thấm đều gia vị và chiên giòn, giữ được độ mềm bên trong, lớp vỏ ngoài giòn rụm. Đây là món ăn yêu thích của nhiều người, phù hợp cho bữa trưa hoặc bữa tối nhanh gọn.",
+      "price": 45000,
+      "category": ["Gà rán", "Món ăn nhanh"]
     },
     {
-      "name": "Thùng 24 hộp sữa hạt ít đường Vinamilk 9 loại hạt 180ml",
-      "description": "Thùng 24 hộp sữa hạt ít đường Vinamilk 9 loại hạt 180ml giàu dưỡng chất từ 9 loại hạt, chứa ít đường, hương vị thơm ngon, dễ uống, tốt cho người giảm cân, ăn kiêng. Sữa hạt Vinamilk 9 loại hạt là sản phẩm sữa hạt không chứa chất bảo quản, an toàn cho người sử dụng.",
-      "price": 300000,
-      "category": ["Đồ uống dinh dưỡng", "Sữa hạt"]
+      "name": "Khoai tây chiên KA FOOD",
+      "description": "Khoai tây chiên KA FOOD được chiên giòn vàng, thơm ngon, có thể ăn kèm với các món ăn khác hoặc dùng làm món ăn vặt cho bữa phụ. Món ăn này luôn được yêu thích bởi sự giòn rụm và hương vị hấp dẫn.",
+      "price": 25000,
+      "category": ["Khoai tây chiên", "Món ăn nhanh"]
     },
     {
-      "name": "Yến mạch trái cây Sunrise bịch 300g",
-      "description": "Yến mạch trái cây được kết hợp với các loại yến mạch và trái cây sấy thơm ngon, hấp dẫn. Yến mạch trái cây Sunrise bịch 300g cung cấp cho bạn bữa ăn sáng hoặc bữa ăn phụ rất ngon miệng mà không sợ mập. Yến mạch Sunrise chất lượng, tiện lợi ăn kèm với sữa tươi và sữa chua sẽ ngon hơn.",
-      "price": 90000,
-      "category": ["Thực phẩm bổ sung", "Ngũ cốc"]
+      "name": "Pizza thập cẩm KA FOOD",
+      "description": "Pizza thập cẩm KA FOOD với lớp vỏ mỏng giòn, phủ đầy phô mai, xúc xích, thịt xông khói, nấm và các loại rau củ tươi ngon. Một sự lựa chọn hoàn hảo cho bữa ăn nhanh khi bạn muốn thưởng thức hương vị đậm đà, phong phú.",
+      "price": 120000,
+      "category": ["Pizza", "Món ăn nhanh"]
     },
     {
-      "name": "Yến mạch nguyên chất Yumfood hũ 800g",
-      "description": "Yến mạch nguyên chất Yumfood được chế biến hoàn toàn từ 100% yến mạch nguyên chất đã qua giai đoạn sàng lọc và vệ sinh theo chuẩn an toàn thực phẩm cùng với cam kết 3 không (không phẩm màu, không chất phụ gia và không chất bảo quản). Vì thế, sản phẩm vẫn giữ được độ thơm ngon và hàm lượng chất xơ dồi dào từ yến mạch.",
-      "price": 140000,
-      "category": ["Thực phẩm bổ sung", "Ngũ cốc"]
+      "name": "Nước ngọt cola KA FOOD",
+      "description": "Nước ngọt cola KA FOOD có vị ngọt thanh, sảng khoái, là thức uống giải khát lý tưởng khi ăn kèm với các món ăn nhanh. Sản phẩm được đóng trong chai nhỏ gọn, dễ dàng mang theo.",
+      "price": 15000,
+      "category": ["Đồ uống", "Nước ngọt"]
     },
     {
-      "name": "Ngũ cốc yến mạch nguyên cám MacCereal ít đường bịch 480g",
-      "description": "Ngũ cốc yến mạch nguyên cám MacCereal ít đường 480g là sản phẩm ngũ cốc dinh dưỡng giảm 80% đường, bổ sung chất xơ hòa tan, cân bằng đường huyết và làm giảm nguy cơ mắc bệnh tim mạch, tiểu đường. Ngũ cốc yến mạch MacCereal rất thích hợp cho người ăn kiêng, tiểu đường.",
-      "price": 75000,
-      "category": ["Thực phẩm bổ sung", "Ngũ cốc"]
+      "name": "Nước ép trái cây KA FOOD",
+      "description": "Nước ép trái cây KA FOOD được làm từ các loại trái cây tươi ngon, giúp bổ sung vitamin và khoáng chất cho cơ thể. Đây là lựa chọn tuyệt vời cho những ai muốn thưởng thức món uống mát lạnh, tự nhiên và tốt cho sức khỏe.",
+      "price": 20000,
+      "category": ["Đồ uống", "Nước ép"]
     },
     {
-      "name": "Gạo lứt hỗn hợp 10 loại hạt Ông Cụ hộp 1kg",
-      "description": "Gạo Ông Cụ là thương hiệu gạo chất lượng đạt chuẩn được nhiều bà nội trợ lựa chọn sử dụng. Gạo lứt hỗn hợp 10 loại hạt Ông Cụ hộp 1kg được sản xuất theo quy trình sản xuất gạo hiện đại an toàn. Gạo lứt chứa nhiều khoáng chất và vitamin rất cần thiết cho cơ thể.",
-      "price": 60000,
-      "category": ["Ngũ cốc"]
+      "name": "Mỳ Ý sốt cà chua KA FOOD",
+      "description": "Mỳ Ý sốt cà chua KA FOOD có sợi mỳ mềm mịn, ăn kèm với sốt cà chua đậm đà, thấm đều, tạo nên hương vị tuyệt vời. Đây là món ăn nhanh nhưng vẫn đầy đủ dinh dưỡng và dễ dàng thưởng thức.",
+      "price": 70000,
+      "category": ["Mỳ Ý", "Món ăn nhanh"]
     },
     {
-      "name": "Gạo lứt tím Vinh Hiển túi 1kg",
-      "description": "Gạo lứt tím Vinh Hiển là giống gạo chất lượng, đạt chuẩn HACCP, vừa an toàn lại chứa nhiều chất xơ và hợp chất thực vật tốt cho sức khỏe. • Chứa Gaba, đây chính là chất hỗ trợ giảm nhẹ bệnh mất trí nhớ. • Chống oxy hóa mạnh, kháng viêm và làm giảm Axit Uric trong máu. • Bổ sung canxi, giúp hạn chế tình trạng loãng xương, và khiến xương bị gãy mau lành hơn.",
-      "price": 48000,
-      "category": ["Ngũ cốc"]
+      "name": "Salad trộn KA FOOD",
+      "description": "Salad trộn KA FOOD bao gồm rau tươi, cà chua, dưa leo và các loại gia vị nhẹ, ăn kèm với sốt đặc biệt giúp kích thích vị giác. Đây là món ăn bổ dưỡng và phù hợp cho những ai yêu thích sự tươi mới trong bữa ăn.",
+      "price": 30000,
+      "category": ["Salad", "Món ăn nhanh"]
     },
     {
-      "name": "Orihiro Trà Hỗ Trợ Giảm Cân Diet Tea 8kg 36 Gói",
-      "description": "Được chiết xuất từ các loại thảo mộc thiên nhiên như lá sen, lúa mạch, trà Rooibos, và đậu đỏ. Không chứa chất bảo quản, chất tạo màu hoặc hương liệu nhân tạo, đảm bảo an toàn khi sử dụng lâu dài.",
-      "price": 500000,
-      "category": ["Thực phẩm giảm cân", "Trà"]
-    },
-    {
-      "name": "Bột yến mạch nguyên cám MacCereal 500g",
-      "description": "Bột yến mạch nguyên cám MacCereal 500g là một loại bột ngũ cốc dinh dưỡng, có tác dụng giảm cân và làm đẹp da. Cung cấp hàm lượng chất xơ cao và vitamin E giúp bảo vệ làn da, hỗ trợ giảm mỡ thừa trong cơ thể.",
-      "price": 130000,
-      "category": ["Thực phẩm bổ sung", "Ngũ cốc"]
-    },
-    {
-      "name": "Bột sữa đậu nành Vinamilk 500g",
-      "description": "Bột sữa đậu nành Vinamilk 500g cung cấp nhiều protein thực vật, tốt cho người ăn kiêng và muốn duy trì vóc dáng. Sản phẩm không chứa đường và là lựa chọn lý tưởng cho những ai đang tìm kiếm một nguồn protein tự nhiên.",
-      "price": 72000,
-      "category": ["Sữa"]
-    },
-    {
-      "name": "Sữa bột hạt điều hạnh nhân Vinamilk 900g",
-      "description": "Sữa bột hạt điều hạnh nhân Vinamilk 900g là sản phẩm sữa hạt ngon miệng, bổ dưỡng, thích hợp cho người ăn kiêng, giảm cân và tăng cường sức khỏe.",
-      "price": 210000,
-      "category": ["Sữa"]
-    },
-    {
-      "name": "Thực phẩm hỗ trợ giảm cân Green Coffee 60 viên",
-      "description": "Thực phẩm hỗ trợ giảm cân Green Coffee là sản phẩm giảm cân an toàn với thành phần từ cà phê xanh nguyên chất giúp đốt cháy mỡ thừa, tăng cường trao đổi chất, giảm cảm giác thèm ăn.",
-      "price": 500000,
-      "category": ["Thực phẩm giảm cân"]
-    },
-    {
-      "name": "Bột giảm cân Herbalife 750g",
-      "description": "Bột giảm cân Herbalife 750g cung cấp các dưỡng chất thiết yếu cho cơ thể trong quá trình giảm cân, giúp bạn duy trì cảm giác no lâu và hạn chế cảm giác thèm ăn.",
-      "price": 1200000,
-      "category": ["Thực phẩm giảm cân"]
-    },
-    {
-      "name": "Nước ép detox giảm cân Love Natural 1L",
-      "description": "Nước ép detox Love Natural giúp thanh lọc cơ thể, cải thiện làn da và hỗ trợ quá trình giảm cân hiệu quả. Sản phẩm hoàn toàn từ trái cây thiên nhiên.",
-      "price": 65000,
-      "category": ["Đồ uống dinh dưỡng", "Detox"]
+      "name": "Hotdog KA FOOD",
+      "description": "Hotdog KA FOOD được làm từ xúc xích chất lượng, kèm theo bánh mì mềm và gia vị, tạo nên món ăn nhanh tiện lợi và ngon miệng.",
+      "price": 25000,
+      "category": ["Hotdog", "Món ăn nhanh"]
     }
   ]
 }
