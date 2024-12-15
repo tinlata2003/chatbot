@@ -1,0 +1,60 @@
+{
+  "store_name": "Điện Thoại Thái An",
+  "description": "Điện Thoại Thái An là cửa hàng chuyên cung cấp các sản phẩm điện thoại chính hãng và phụ kiện chất lượng cao, bao gồm các loại smartphone, máy tính bảng và các phụ kiện điện tử. Chúng tôi cam kết mang đến cho khách hàng những sản phẩm chất lượng, giá cả cạnh tranh và dịch vụ hỗ trợ tận tình.",
+  "contact_info": {
+    "address": "Thủ Dầu Một, Bình Dương",
+    "phone": "0123456789",
+    "email": "thaidanhshop@gmail.com",
+    "website": "http://localhost/"
+  },
+  "products": [
+    {
+      "name": "Smartphone Samsung Galaxy S21",
+      "description": "Samsung Galaxy S21 mang đến màn hình vượt trội, camera chất lượng cao và hiệu năng mạnh mẽ. Đây là smartphone lý tưởng cho những ai yêu thích công nghệ.",
+      "price": 19900000,
+      "category": ["Điện thoại", "Smartphone"]
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "description": "iPhone 13 Pro với thiết kế sang trọng, camera tiên tiến và hiệu suất mạnh mẽ, là lựa chọn hàng đầu cho người dùng yêu thích sản phẩm của Apple.",
+      "price": 24900000,
+      "category": ["Điện thoại", "Smartphone"]
+    },
+    {
+      "name": "Xiaomi Mi 11",
+      "description": "Xiaomi Mi 11 sở hữu màn hình AMOLED sắc nét, hiệu suất mạnh mẽ và thiết kế tinh tế, phù hợp với khách hàng cần một chiếc smartphone mạnh mẽ với mức giá hợp lý.",
+      "price": 13900000,
+      "category": ["Điện thoại", "Smartphone"]
+    },
+    {
+      "name": "Máy tính bảng iPad Air 4",
+      "description": "iPad Air 4 với màn hình lớn và hiệu năng cao, giúp bạn làm việc và giải trí một cách dễ dàng. Là lựa chọn tuyệt vời cho sinh viên và doanh nhân.",
+      "price": 14900000,
+      "category": ["Máy tính bảng", "Phụ kiện"]
+    },
+    {
+      "name": "Tai nghe không dây AirPods Pro",
+      "description": "AirPods Pro cho âm thanh chất lượng cao, chế độ khử tiếng ồn và thiết kế thoải mái, là phụ kiện không thể thiếu cho những ai yêu thích nghe nhạc.",
+      "price": 4500000,
+      "category": ["Phụ kiện", "Tai nghe"]
+    },
+    {
+      "name": "Sạc dự phòng Anker 20000mAh",
+      "description": "Sạc dự phòng Anker 20000mAh với dung lượng lớn và khả năng tương thích với nhiều thiết bị, giúp bạn không bao giờ lo về pin khi ra ngoài.",
+      "price": 800000,
+      "category": ["Phụ kiện", "Sạc"]
+    },
+    {
+      "name": "Ốp lưng chống sốc cho iPhone 13",
+      "description": "Ốp lưng chống sốc giúp bảo vệ iPhone 13 của bạn khỏi những va đập, trầy xước, và mang đến phong cách thời thượng.",
+      "price": 300000,
+      "category": ["Phụ kiện", "Ốp lưng"]
+    },
+    {
+      "name": "Kính cường lực cho smartphone",
+      "description": "Kính cường lực bảo vệ màn hình điện thoại khỏi trầy xước và va đập, giúp tăng cường độ bền cho thiết bị của bạn.",
+      "price": 150000,
+      "category": ["Phụ kiện", "Kính bảo vệ"]
+    }
+  ]
+}
