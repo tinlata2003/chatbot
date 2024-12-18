@@ -1,0 +1,48 @@
+{
+  "store_name": "NHÀ SÁCH GIA ĐỊNH",
+  "description": "Cửa hàng sách và văn phòng phẩm số một Việt Nam. Chúng tôi cung cấp đa dạng sản phẩm cho học sinh từ lớp 1 đến lớp 12 và các vật dụng văn phòng phẩm.",
+  "contact_info": {
+    "address": "Thủ Dầu Một, Bình Dương",
+    "phone": "0123456789",
+    "email": "NHASACHGIADINH@gmail.com",
+    "website": "http://localhost/"
+  },
+  "products": [
+    {
+      "name": "Sách Toán 1",
+      "description": "Sách Toán lớp 1 giúp học sinh nắm vững các khái niệm cơ bản.",
+      "price": 50000,
+      "category": ["sách", "lớp 1"]
+    },
+    {
+      "name": "Sách Tiếng Việt 2",
+      "description": "Sách Tiếng Việt lớp 2 với nhiều bài học thú vị.",
+      "price": 60000,
+      "category": ["sách", "lớp 2"]
+    },
+    {
+      "name": "Sách Lịch Sử 9",
+      "description": "Sách Lịch Sử lớp 9 giúp học sinh hiểu biết về lịch sử Việt Nam.",
+      "price": 80000,
+      "category": ["sách", "lớp 9"]
+    },
+    {
+      "name": "Bút bi màu",
+      "description": "Bút bi màu giúp học sinh dễ dàng ghi chép và tô màu.",
+      "price": 20000,
+      "category": ["văn phòng phẩm"]
+    },
+    {
+      "name": "Vở ô ly A4",
+      "description": "Vở ô ly A4 với 100 trang cho việc ghi chép và bài tập.",
+      "price": 30000,
+      "category": ["văn phòng phẩm"]
+    },
+    {
+      "name": "Bảng trắng 2 mặt",
+      "description": "Bảng trắng 2 mặt sử dụng cho việc học tập và giảng dạy.",
+      "price": 150000,
+      "category": ["văn phòng phẩm"]
+    }
+  ]
+}
