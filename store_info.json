@@ -3,22 +3,160 @@
   "description": "Cửa hàng giày số một Việt Nam. Ngoài việc mua hàng trực tuyến trên hệ thống website của chúng tôi, khách hàng có thể liên hệ và tìm đến cửa hàng để lựa chọn sản phẩm một cách thực tế nhất.",
   "contact_info": {
     "address": "Thủ Dầu Một, Bình Dương",
-    "phone": "0988888888",
+    "phone": "0388184340",
     "email": "MHSTORE@gmail.com",
     "website": "http://localhost/webquanao/"
   },
   "products": [
-        {
-          "name": "Nike Air Zoom Pegasus 39",
-          "description": "Giày chạy bộ Nike",
-          "price": 3700000,
-          "category": ["nike", "giày chạy bộ"]
-        },
-        {
-          "name": "Adidas Ultraboost 22",
-          "description": "Giày chạy bộ Adidas",
-          "price": 4300000,
-          "category": ["Adidas", "giày chạy bộ"]
-        }
-      ]
+    {
+      "name": "Nike Air Zoom Pegasus 39",
+      "description": "Giày chạy bộ Nike Air Zoom Pegasus 39 phiên bản này được thiết kế để mang lại cảm giác hỗ trợ và cố định bàn chân chắc chắn.",
+      "price": 3400000,
+      "category": ["nike", "giày chạy bộ"]
+    },
+    {
+      "name": "Adidas Ultraboost 22",
+      "description": "Giày chạy bộ Adidas Ultraboost 22 thân giày adidas PRIMEKNIT với thiết kế phần gót thon gọn hơn để tránh tuột gót.",
+      "price": 5000000,
+      "category": ["Adidas", "giày chạy bộ"]
+    },
+    {
+      "name": "Asics Gel-Kayano 29",
+      "description": "Giày chạy bộ Asics Gel-Kayano 29 tạo ra trải nghiệm chạy ổn định và cảm giác nhạy bén hơn dưới chân.",
+      "price": 4200000,
+      "category": ["Asics", "giày chạy bộ"]
+    },
+    {
+      "name": "New Balance Fresh Foam 1080v12",
+      "description": "Giày chạy bộ New Balance Fresh Foam 1080v12 là một trong những đôi giày chạy bộ hàng đầu của New Balance.",
+      "price": 1900000,
+      "category": ["New Balance", "giày chạy bộ"]
+    },
+    {
+      "name": "Puma Deviate Nitro",
+      "description": "Giày chạy bộ Puma Deviate Nitro với thiết kế hiện đại và tích hợp nhiều công nghệ tiên tiến.",
+      "price": 2000000,
+      "category": ["Puma", "giày chạy bộ"]
+    },
+    {
+      "name": "Nike Metcon 8",
+      "description": "Giày tập gym Nike Metcon 8 được làm từ chất liệu da cao cấp bền đẹp trong suốt quá trình sử dụng.",
+      "price": 4300000,
+      "category": ["Nike", "giày tập gym"]
+    },
+    {
+      "name": "Reebok Nano X2",
+      "description": "Giày tập gym Reebok Nano X2 được thiết kế để trở thành người bạn đồng hành từ squat đến bài tập cường độ cao.",
+      "price": 3100000,
+      "category": ["Reebok", "giày tập gym"]
+    },
+    {
+      "name": "Under Armour HOVR Rise 4",
+      "description": "Giày tập gym Under Armour HOVR Rise 4 với cấu trúc bền bỉ và đệm UA HOVR™ hỗ trợ hoàn trả năng lượng.",
+      "price": 2500000,
+      "category": ["Under Armour", "giày tập gym"]
+    },
+    {
+      "name": "Adidas Adipower Weightlifting II",
+      "description": "Giày tập gym Adidas Adipower Weightlifting II được thiết kế để tối ưu hóa hiệu suất nâng tạ.",
+      "price": 3100000,
+      "category": ["Adidas", "giày tập gym"]
+    },
+    {
+      "name": "New Balance Minimus TR",
+      "description": "Giày tập gym New Balance Minimus TR mang đến sự hỗ trợ thoải mái với cảm giác nhẹ nhàng.",
+      "price": 1800000,
+      "category": ["New Balance", "giày tập gym"]
+    },
+    {
+      "name": "Nike Air Zoom Freak 4",
+      "description": "Giày bóng rổ Nike Air Zoom Freak 4 với công nghệ Zoom Air hỗ trợ độ đàn hồi vượt trội.",
+      "price": 3300000,
+      "category": ["Nike", "giày bóng rổ"]
+    },
+    {
+      "name": "Adidas Harden Vol.7",
+      "description": "Giày bóng rổ Adidas Harden Vol.7 với thiết kế táo bạo lấy cảm hứng từ áo phao mùa đông.",
+      "price": 4000000,
+      "category": ["Adidas", "giày bóng rổ"]
+    },
+    {
+      "name": "Jordan Why Not Zer0.5",
+      "description": "Giày bóng rổ Jordan Why Not Zer0.5 với hệ thống phù hợp toàn bộ bàn chân giúp tăng cường kiểm soát.",
+      "price": 3300000,
+      "category": ["Jordan Brand", "giày bóng rổ"]
+    },
+    {
+      "name": "Under Armour Curry 9",
+      "description": "Giày bóng rổ Under Armour Curry 9 sử dụng công nghệ UA WARP mang lại độ bám tuyệt vời.",
+      "price": 4400000,
+      "category": ["Under Armour", "giày bóng rổ"]
+    },
+    {
+      "name": "Puma Clyde All-Pro",
+      "description": "Giày bóng rổ Puma Clyde All-Pro được trang bị công nghệ Full-Length Pro-Foam+ siêu nhẹ.",
+      "price": 3200000,
+      "category": ["Puma", "giày bóng rổ"]
+    },
+    {
+      "name": "Nike Mercurial Vapor 15 Elite FG",
+      "description": "Giày bóng đá Nike Mercurial Vapor 15 Elite FG thiết kế cho sân cỏ tự nhiên với công nghệ Zoom Air.",
+      "price": 4390000,
+      "category": ["Nike", "giày bóng đá"]
+    },
+    {
+      "name": "Adidas Predator Edge.1 FG",
+      "description": "Giày bóng đá Adidas Predator Edge.1 FG giúp làm chủ từng cú chạm bóng và đảo hướng thần tốc.",
+      "price": 2250000,
+      "category": ["Adidas", "giày bóng đá"]
+    },
+    {
+      "name": "Puma Future Z 1.4 FG/AG",
+      "description": "Giày bóng đá Puma Future Z 1.4 FG/AG với thiết kế tạo cảm giác tốc độ và linh hoạt.",
+      "price": 2800000,
+      "category": ["Puma", "giày bóng đá"]
+    },
+    {
+      "name": "New Balance Furon V7 Pro FG",
+      "description": "Giày bóng đá New Balance Furon V7 Pro FG tối ưu hóa tốc độ trên sân với phần upper siêu nhẹ.",
+      "price": 3300000,
+      "category": ["New Balance", "giày bóng đá"]
+    },
+    {
+      "name": "Under Armour Clone Magnetico Pro 2.0 FG",
+      "description": "Giày bóng đá Under Armour Clone Magnetico Pro 2.0 FG với đế FG 13 đinh trụ, hỗ trợ tối ưu.",
+      "price": 4700000,
+      "category": ["Under Armour", "giày bóng đá"]
+    },
+    {
+      "name": "Nike Air Zoom Vapor Pro",
+      "description": "Giày tennis Nike Air Zoom Vapor Pro nhẹ hơn và mang lại độ ổn định vượt trội.",
+      "price": 3500000,
+      "category": ["Nike", "giày tennis"]
+    },
+    {
+      "name": "Adidas Barricade",
+      "description": "Giày tennis Adidas Barricade sử dụng chất liệu tái chế với đế giữa Bounce êm ái.",
+      "price": 3800000,
+      "category": ["Adidas", "giày tennis"]
+    },
+    {
+      "name": "Asics Gel-Resolution 8",
+      "description": "Giày tennis Asics Gel-Resolution 8 với đệm GEL giảm chấn và độ bám tốt trên sân.",
+      "price": 1500000,
+      "category": ["Asics", "giày tennis"]
+    },
+    {
+      "name": "New Balance Lav Fresh Foam",
+      "description": "Giày tennis New Balance Lav Fresh Foam với đệm GEL tăng sự thoải mái khi thi đấu dài.",
+      "price": 1400000,
+      "category": ["New Balance", "giày tennis"]
+    },
+    {
+      "name": "Babolat Jet Mach III",
+      "description": "Giày tennis Babolat Jet Mach III sử dụng sợi Kevlar và đế Michelin Premium chống mài mòn.",
+      "price": 1200000,
+      "category": ["Babolat", "giày tennis"]
+    }
+  ]
 }
