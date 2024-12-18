@@ -15,17 +15,96 @@
       "category": ["sách", "lớp 1"]
     },
     {
+      "name": "sách tiếng việt 1",
+      "description": "sách tiếng việt lớp 1 cho học sinh nắm vững kiến thức cơ bản.",
+      "price": 40000,
+      "category": ["sách", "lớp 1"]
+    },
+    {
+      "name": "sách hoạt động và trải nghiệm 1",
+      "description": "sách hoạt động trải nghiệm cho học sinh làm quen với các hoạt động bên ngoài.",
+      "price": 50000,
+      "category": ["sách", "lớp 1"]
+    },
+    {
+      "name": "sách anh văn lớp 1",
+      "description": "sách anh văn cho học sinh làm quen với ngôn ngữ mới.",
+      "price": 80000,
+      "category": ["sách", "lớp 1"]
+    },
+    {
+    "name": "sách địa lí lớp 1",
+    "description": "sách địa lí giúp cho học sinh hiểu hơn về nơi mình sống.", 
+    "price": 20000,
+    "category": ["sách", "lớp 1"]
+  },
+
+    {
       "name": "Sách Tiếng Việt 2",
       "description": "Sách Tiếng Việt lớp 2 với nhiều bài học thú vị.",
       "price": 60000,
       "category": ["sách", "lớp 2"]
     },
     {
+      "name": "sách toán 2",
+      "description": "sách toán lớp 2 cho học sinh nắm vững kiến thức cơ bản.",
+      "price": 40000,
+      "category": ["sách", "lớp 2"]
+    },
+    {
+      "name": "sách hoạt động và trải nghiệm 2",
+      "description": "sách hoạt động trải nghiệm cho học sinh làm quen với các hoạt động bên ngoài.",
+      "price": 50000,
+      "category": ["sách", "lớp 2"]
+    },
+    {
+      "name": "sách anh văn lớp 2",
+      "description": "sách anh văn 2 cho học sinh nắm vững kiến thức với ngôn ngữ mới.",
+      "price": 80000,
+      "category": ["sách", "lớp 2"]
+    },
+    {
+    "name": "sách địa lí lớp 2",
+    "description": "sách địa lí giúp cho học sinh hiểu hơn về nơi mình sống.", 
+    "price": 20000,
+    "category": ["sách", "lớp 2"]
+  },
+    {
       "name": "Sách Lịch Sử 9",
       "description": "Sách Lịch Sử lớp 9 giúp học sinh hiểu biết về lịch sử Việt Nam.",
       "price": 80000,
       "category": ["sách", "lớp 9"]
     },
+    {
+      "name": "Sách ngữ văn 9",
+      "description": "Sách ngữ văn lớp 9 với nhiều bài học thú vị về văn học Việt Nam.",
+      "price": 60000,
+      "category": ["sách", "lớp 9"]
+    },
+    {
+      "name": "sách toán 9",
+      "description": "sách toán lớp 9 cho học sinh nắm vững kiến thức về đại số và hình học.",
+      "price": 40000,
+      "category": ["sách", "lớp 9"]
+    },
+    {
+      "name": "sách vật lý 9",
+      "description": "sách vật lý 9 cho học sinh nắm rõ hơn kiến thức về các chuyển động vật lý.",
+      "price": 50000,
+      "category": ["sách", "lớp 9"]
+    },
+    {
+      "name": "sách anh văn lớp 9",
+      "description": "sách anh văn 9 cho học sinh nắm vững kiến thức với ngôn ngữ mới.",
+      "price": 80000,
+      "category": ["sách", "lớp 9"]
+    },
+    {
+    "name": "sách địa lí lớp 9",
+    "description": "sách địa lí giúp cho học sinh hiểu hơn về nơi mình sống và các quốc gia trên thế giới.", 
+    "price": 20000,
+    "category": ["sách", "lớp 9"]
+  },
     {
       "name": "Bút bi màu",
       "description": "Bút bi màu giúp học sinh dễ dàng ghi chép và tô màu.",
