@@ -69,6 +69,218 @@
     "price": 20000,
     "category": ["sách", "lớp 2"]
   },
+  {
+      "name": "Sách Toán 3",
+      "description": "Sách Toán lớp 3 giúp học sinh nắm vững các khái niệm cơ bản.",
+      "price": 50000,
+      "category": ["sách", "lớp 3"]
+    },
+    {
+      "name": "sách tiếng việt 3",
+      "description": "sách tiếng việt lớp 1 cho học sinh nắm vững kiến thức cơ bản.",
+      "price": 40000,
+      "category": ["sách", "lớp 3"]
+    },
+    {
+      "name": "sách hoạt động và trải nghiệm 3",
+      "description": "sách hoạt động trải nghiệm cho học sinh làm quen với các hoạt động bên ngoài.",
+      "price": 50000,
+      "category": ["sách", "lớp 3"]
+    },
+    {
+      "name": "sách anh văn lớp 3",
+      "description": "sách anh văn cho học sinh làm quen với ngôn ngữ mới.",
+      "price": 80000,
+      "category": ["sách", "lớp 3"]
+    },
+    {
+    "name": "sách địa lí lớp 3",
+    "description": "sách địa lí giúp cho học sinh hiểu hơn về nơi mình sống.", 
+    "price": 20000,
+    "category": ["sách", "lớp 3"]
+  },
+  {
+      "name": "Sách Toán 4",
+      "description": "Sách Toán lớp 4 giúp học sinh nắm vững các khái niệm cơ bản.",
+      "price": 50000,
+      "category": ["sách", "lớp 4"]
+    },
+    {
+      "name": "sách tiếng việt 4",
+      "description": "sách tiếng việt lớp 4 cho học sinh nắm vững kiến thức cơ bản.",
+      "price": 40000,
+      "category": ["sách", "lớp 4"]
+    },
+    {
+      "name": "sách hoạt động và trải nghiệm 4",
+      "description": "sách hoạt động trải nghiệm cho học sinh làm quen với các hoạt động bên ngoài.",
+      "price": 50000,
+      "category": ["sách", "lớp 4"]
+    },
+    {
+      "name": "sách anh văn lớp 4",
+      "description": "sách anh văn cho học sinh làm quen với ngôn ngữ mới.",
+      "price": 80000,
+      "category": ["sách", "lớp 4"]
+    },
+    {
+    "name": "sách địa lí lớp 4",
+    "description": "sách địa lí giúp cho học sinh hiểu hơn về nơi mình sống.", 
+    "price": 20000,
+    "category": ["sách", "lớp 4"]
+  },
+  {
+      "name": "Sách Toán 4",
+      "description": "Sách Toán lớp 4 giúp học sinh nắm vững các khái niệm cơ bản.",
+      "price": 50000,
+      "category": ["sách", "lớp 4"]
+    },
+    {
+      "name": "sách tiếng việt 4",
+      "description": "sách tiếng việt lớp 1 cho học sinh nắm vững kiến thức cơ bản.",
+      "price": 40000,
+      "category": ["sách", "lớp 4"]
+    },
+    {
+      "name": "sách hoạt động và trải nghiệm 1",
+      "description": "sách hoạt động trải nghiệm cho học sinh làm quen với các hoạt động bên ngoài.",
+      "price": 50000,
+      "category": ["sách", "lớp 4"]
+    },
+    {
+      "name": "sách anh văn lớp 4",
+      "description": "sách anh văn cho học sinh làm quen với ngôn ngữ mới.",
+      "price": 80000,
+      "category": ["sách", "lớp 4"]
+    },
+    {
+    "name": "sách địa lí lớp 4",
+    "description": "sách địa lí giúp cho học sinh hiểu hơn về nơi mình sống.", 
+    "price": 20000,
+    "category": ["sách", "lớp 4"]
+  },
+  {
+      "name": "Sách Toán 5",
+      "description": "Sách Toán lớp 5 giúp học sinh nắm vững các khái niệm cơ bản.",
+      "price": 50000,
+      "category": ["sách", "lớp 5"]
+    },
+    {
+      "name": "sách tiếng việt 5",
+      "description": "sách tiếng việt lớp 5 cho học sinh nắm vững kiến thức cơ bản.",
+      "price": 40000,
+      "category": ["sách", "lớp 5"]
+    },
+    {
+      "name": "sách hoạt động và trải nghiệm 5",
+      "description": "sách hoạt động trải nghiệm cho học sinh làm quen với các hoạt động bên ngoài.",
+      "price": 50000,
+      "category": ["sách", "lớp 5"]
+    },
+    {
+      "name": "sách anh văn lớp 5",
+      "description": "sách anh văn cho học sinh làm quen với ngôn ngữ mới.",
+      "price": 80000,
+      "category": ["sách", "lớp 5"]
+    },
+    {
+    "name": "sách địa lí lớp 5",
+    "description": "sách địa lí giúp cho học sinh hiểu hơn về nơi mình sống.", 
+    "price": 20000,
+    "category": ["sách", "lớp 5"]
+  },
+  {
+      "name": "Sách Toán 6",
+      "description": "Sách Toán lớp 6 giúp học sinh nắm vững các khái niệm cơ bản về đại số và hình học.",
+      "price": 50000,
+      "category": ["sách", "lớp 6"]
+    },
+    {
+      "name": "sách ngữ văn 6",
+      "description": "sách tiếng việt lớp 6 cho học sinh nắm vững kiến thức cơ bản.",
+      "price": 40000,
+      "category": ["sách", "lớp 6"]
+    },
+    {
+      "name": "sách hoạt động và trải nghiệm 6",
+      "description": "sách hoạt động trải nghiệm cho học sinh làm quen với các hoạt động bên ngoài.",
+      "price": 50000,
+      "category": ["sách", "lớp 6"]
+    },
+    {
+      "name": "sách anh văn lớp 6",
+      "description": "sách anh văn cho học sinh làm quen với ngôn ngữ mới.",
+      "price": 80000,
+      "category": ["sách", "lớp 6"]
+    },
+    {
+    "name": "sách địa lí lớp 6",
+    "description": "sách địa lí giúp cho học sinh hiểu hơn về nơi mình sống.", 
+    "price": 20000,
+    "category": ["sách", "lớp 6"]
+  },
+  
+    {
+      "name": "sách anh văn lớp 7",
+      "description": "sách anh văn cho học sinh làm quen với ngôn ngữ mới.",
+      "price": 80000,
+      "category": ["sách", "lớp 7"]
+    },
+    {
+    "name": "sách địa lí lớp 7",
+    "description": "sách địa lí giúp cho học sinh hiểu hơn về nơi mình sống.", 
+    "price": 20000,
+    "category": ["sách", "lớp 7"]
+  },
+  {
+      "name": "Sách Toán 7",
+      "description": "Sách Toán lớp 7 giúp học sinh nắm vững các khái niệm cơ bản về đại số và hình học.",
+      "price": 50000,
+      "category": ["sách", "lớp 7"]
+    },
+    {
+      "name": "sách ngữ văn 7",
+      "description": "sách tiếng việt lớp 7 cho học sinh nắm vững kiến thức cơ bản.",
+      "price": 40000,
+      "category": ["sách", "lớp 7"]
+    },
+    {
+      "name": "sách hoạt động và trải nghiệm 7",
+      "description": "sách hoạt động trải nghiệm cho học sinh làm quen với các hoạt động bên ngoài.",
+      "price": 50000,
+      "category": ["sách", "lớp 7"]
+    },
+    {
+      "name": "sách anh văn lớp 8",
+      "description": "sách anh văn cho học sinh làm quen với ngôn ngữ mới.",
+      "price": 80000,
+      "category": ["sách", "lớp 8"]
+    },
+    {
+    "name": "sách địa lí lớp 8",
+    "description": "sách địa lí giúp cho học sinh hiểu hơn về nơi mình sống.", 
+    "price": 20000,
+    "category": ["sách", "lớp 8"]
+  },
+  {
+      "name": "Sách Toán 8",
+      "description": "Sách Toán lớp 8 giúp học sinh nắm vững các khái niệm cơ bản về đại số và hình học.",
+      "price": 50000,
+      "category": ["sách", "lớp 8"]
+    },
+    {
+      "name": "sách ngữ văn 8",
+      "description": "sách tiếng việt lớp 8 cho học sinh nắm vững kiến thức cơ bản.",
+      "price": 40000,
+      "category": ["sách", "lớp 8"]
+    },
+    {
+      "name": "sách hoạt động và trải nghiệm 8",
+      "description": "sách hoạt động trải nghiệm cho học sinh làm quen với các hoạt động bên ngoài.",
+      "price": 50000,
+      "category": ["sách", "lớp 8"]
+    },
+  
     {
       "name": "Sách Lịch Sử 9",
       "description": "Sách Lịch Sử lớp 9 giúp học sinh hiểu biết về lịch sử Việt Nam.",
