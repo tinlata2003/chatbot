@@ -61,6 +61,102 @@
       "description": "Hotdog KA FOOD được làm từ xúc xích chất lượng, kèm theo bánh mì mềm và gia vị, tạo nên món ăn nhanh tiện lợi và ngon miệng.",
       "price": 25000,
       "category": ["Hotdog", "Món ăn nhanh"]
+    },
+    {
+      "name": "Cơm ngon KA FOOD",
+      "description": "Cơm ngon KA FOOD được làm từ cơm chất lượng, Hạt cơm chín đều, mềm mại nhưng không bị nhão, giữ được vị ngọt tự nhiên của gạo. Món ăn kèm có thể là thịt kho trứng béo ngậy, cá kho tộ thơm lừng, hoặc rau luộc chấm mắm kho quẹt đậm đà.",
+      "price": 20000,
+      "category": ["Cơm ngon", "Cơm"]
+    },
+    {
+      "name": "Nộm xà lách",
+      "description": "Nộm xà lách KA FOOD được làm từ rau củ chất lượng, Món ăn này sử dụng rau xà lách tươi xanh làm nguyên liệu chính, kết hợp với các thành phần khác để tạo nên hương vị hài hòa.",
+      "price": 25000,
+      "category": ["Nộm xà lách", "Nộm"]
+    },
+    {
+      "name": "Cơm gà xối mỡ",
+      "description": "Cơm gà xối mỡ là một món ăn phổ biến và được yêu thích nhờ sự kết hợp giữa phần cơm chiên vàng óng, phần gà giòn rụm và hương vị đậm đà, hấp dẫn. Đây là món ăn thường được phục vụ tại các quán ăn Việt Nam, đặc biệt trong các bữa trưa hoặc tối.",
+      "price": 45000,
+      "category": ["Cơm gà xối mỡ", "Cơm"]
+    },
+    {
+      "name": "Canh cá xay",
+      "description": "Canh cá xay là một món canh truyền thống, đơn giản nhưng rất bổ dưỡng. Với nguyên liệu chính là cá được xay nhuyễn, món canh này không chỉ đậm đà mà còn dễ ăn, phù hợp với mọi thành viên trong gia đình, kể cả trẻ nhỏ.",
+      "price": 150000,
+      "category": ["Canh cá xay", "Nước súp"]
+    },
+    {
+      "name": "Sụn gà xóc muối Tây Ninh",
+      "description": "Món sụn gà xóc muối Tây Ninh là một món ăn vặt hoàn hảo với độ giòn từ lớp bột bên ngoài và độ dai dai từ sụn gà bên trong. ",
+      "price": 137000,
+      "category": ["Sụn gà", "Món ăn mùa xuân"]
+    },
+    {
+      "name": "Salad rau mùa sốt cam",
+      "description": "Salad rau mùa sốt cam là sự lựa chọn tuyệt vời cho các tín đồ yêu eat clean. Món ăn có đến 5 loại xà lách (carol, frise, lô lô tím, xà lách mỡ và radicchio tím) kết hợp cùng các loại trái cây như táo, cà chua, ô liu... mang lại nguồn vitamin tổng hợp dồi dào",
+      "price": 150000,
+      "category": ["Salad", "Món ăn mùa hè"]
+    },
+    {
+      "name": "Ba rọi chiên mắm ngò",
+      "description": "Ba rọi chiên mắm ngò là sự sáng tạo được khơi nguồn từ món ba rọi chiên mắm vốn đã quen thuộc trong bữa cơm người Việt, giúp nâng tầm tinh túy ẩm thực dân gian và mang lại trải nghiệm hoàn toàn mới cho thực khách. ",
+      "price": 147000,
+      "category": ["Ba rọi", "Món ăn mùa thu"]
+    },
+    {
+      "name": "gà nấu lá vang",
+      "description": "Gà nấu lá vang là một món ăn truyền thống dân dã, đậm đà và rất bổ dưỡng. Với sự kết hợp giữa thịt gà và lá vang, món ăn mang hương vị chua thanh tự nhiên, thơm ngon khó cưỡng. Món này thường được chế biến trong các bữa ăn gia đình hoặc những dịp tụ họp. ",
+      "price": 147000,
+      "category": ["Gà", "Món ăn mùa đông"]
+    },
+    {
+      "name": "Cơm chả cua hoàng kim",
+      "description": "Cơm sườn nướng chả cua hoàng kim nên là món nhất định phải thử trong menu. Với sự kết hợp của sườn được chế biến tẩm ướp công phu và chả của làm 100% thủ công với công thức độc quyền của nhà hàng.",
+      "price": 76000,
+      "category": ["Cơm", "Món ăn mùa xuân"]
+    },
+    {
+      "name": "Cơm đùi gà chiên giòn",
+      "description": "Cơm đùi gà chiên giòn vốn là món ăn quen thuộc với nhiều người nhưng với sự tinh tế của các đầu bếp giúp mang đến hương vị mới mẻ, đầy hấp dẫn. ",
+      "price": 59000,
+      "category": ["Cơm", "Món ăn mùa xuân"]
+    },
+    {
+      "name": "Cơm sườn nướng",
+      "description": "Cơm sườn nướng sẽ gây ấn tượng với thực khách ngay từ lần đầu tiên với sự mềm thơm, đầy vị và mọng nước của miếng sườn, không hề khô rang như những nơi khác. ",
+      "price": 55000,
+      "category": ["Cơm", "Món ăn mùa thu"]
+    },
+    {
+      "name": "Hủ tiếu áp chảo bò",
+      "description": "Hủ tiếu bò áp chảo là món ăn tuyệt hảo sử dụng phương pháp áp chảo vốn đã rất nổi tiếng ở nhiều nước Phương Tây. Qua lớp dầu nóng giúp các nguyên liệu chín nhanh ở nhiệt độ cao, lưu giữ được độ giòn, vị ngọt tự nhiên, đặc biệt hơn hết là màu sắc bắt mắt và hương vị thơm ngon khó cưỡng của phần thịt bò phi lê đậm đà hài hòa cùng từng sợi hủ tiếu mềm mỏng hấp dẫn.",
+      "price": 100000,
+      "category": ["Hủ tiếu", "Món ăn mùa thu"]
+    },
+    {
+      "name": "Trà lài nhãn",
+      "description": "Trà lài luôn là khởi đầu dễ chịu để sáng tạo nên những thức uống thanh nhiệt thú vị. Khi kết hợp cùng long nhãn, trà lài được cân bằng độ chát nhẹ bằng vị ngọt dịu thanh nhã, tạo nên một thức uống giải nhiệt, an thần hiệu quả.",
+      "price": 49000,
+      "category": ["Đồ uống", "Món ăn mùa hè"]
+    },
+    {
+      "name": "Salad rau mùa sốt mác mác",
+      "description": "Salad rau mùa sốt mác mác được lựa chọn từ những loại rau củ ẩm thực phương Tây như xà lách lolo, xà lách carron, dầu oliu, kết hợp với hương đồng cỏ nội trong văn hoá ẩm thực Việt Nam là củ dền, táo đỏ, táo xanh, chanh dây và rau quế. ",
+      "price": 69000,
+      "category": ["Salad", "Món ăn mùa hè"]
+    },
+    {
+      "name": "Bê sữa xông hơi",
+      "description": "Bê sữa xông hơi là một món ăn hấp dẫn, đầy sáng tạo, kết hợp giữa sự tươi ngon của thịt bê sữa và kỹ thuật chế biến xông hơi độc đáo. Thịt bê sữa được lựa chọn cẩn thận từ những con bê non, mềm mại và ngọt tự nhiên. ",
+      "price": 179000,
+      "category": ["Bê", "Món ăn mùa đông"]
+    },
+    {
+      "name": "Cacao nóng",
+      "description": "Cacao nóng là một thức uống ấm áp, thơm ngon, được yêu thích vào những ngày se lạnh hoặc khi bạn muốn thư giãn. Với vị đắng nhẹ của bột cacao hòa quyện cùng độ ngọt béo của sữa, ly cacao nóng mang đến cảm giác thoải mái và đầy năng lượng. ",
+      "price": 20000,
+      "category": ["Đồ uống", "Món ăn mùa đông"]
     }
   ]
 }
