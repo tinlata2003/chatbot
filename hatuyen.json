@@ -1,66 +1,79 @@
 {
   "store_name": "NHT SHOP",
-  "description": "NHT SHOP là cửa hàng chuyên cung cấp các sản phẩm quần áo nam chất lượng cao, bao gồm áo sơ mi, áo thun, quần jean, quần tây và phụ kiện thời trang. Chúng tôi cam kết mang đến cho khách hàng sự thoải mái, phong cách và phù hợp với xu hướng thời trang hiện đại. NHT SHOP luôn chú trọng đến chất lượng sản phẩm và dịch vụ, nhằm đáp ứng tốt nhất nhu cầu của khách hàng nam giới trong mọi hoàn cảnh.",
+  "description": "NHT SHOP là cửa hàng chuyên cung cấp các sản phẩm quần áo nam chất lượng cao, bao gồm áo sơ mi, áo polo, áo khoác và phụ kiện thời trang. Chúng tôi cam kết mang đến cho khách hàng sự thoải mái, phong cách và phù hợp với xu hướng thời trang hiện đại. NHT SHOP luôn chú trọng đến chất lượng sản phẩm và dịch vụ, nhằm đáp ứng tốt nhất nhu cầu của khách hàng nam giới trong mọi hoàn cảnh.",
   "contact_info": {
-    "address": "Quận 1, TP. Hồ Chí Minh",
+    "address": "Phú Hòa, Thủ Dầu Một, Bình Dương",
     "phone": "0987654321",
     "email": "nhtshop@gmail.com",
     "website": "http://localhost/"
   },
   "products": [
     {
-      "name": "Áo sơ mi trắng NHT SHOP",
-      "description": "Áo sơ mi trắng NHT SHOP được làm từ chất liệu cotton cao cấp, tạo cảm giác thoải mái và dễ chịu khi mặc. Sản phẩm phù hợp cho các buổi họp, làm việc hoặc đi tiệc.",
+      "name": "Áo sơ mi - Xanh chìm NHT SHOP",
+      "description": "Áo sơ mi - Xanh chìm NHT SHOP được làm từ chất liệu cotton cao cấp, tạo cảm giác thoải mái và dễ chịu khi mặc. Sản phẩm phù hợp cho các buổi họp, làm việc hoặc đi tiệc.",
+      "price": 440000,
+      "category": [ "Áo sơ mi", "Thời trang nam" ]
+    },
+    {
+      "name": "Áo sơ mi - Xanh caro NHT SHOP",
+      "description": "Áo sơ mi - Xanh caro NHT SHOP với thiết kế đơn giản, trẻ trung, chất liệu co giãn thoáng mát, là lựa chọn hoàn hảo cho các hoạt động hằng ngày hoặc đi chơi.",
+      "price": 220000,
+      "category": [ "Áo sơ mi", "Thời trang nam" ]
+    },
+    {
+      "name": "Áo Polo - Màu trắng kẻ viền sọc NHT SHOP",
+      "description": "Áo Polo trắng kẻ viền sọc, chất liệu thoáng mát, kiểu dáng thanh lịch, dễ phối đồ, phù hợp mọi hoàn cảnh.",
+      "price": 310000,
+      "category": [ "Áo polo", "Thời trang nam" ]
+    },
+    {
+      "name": "Áo Polo - Màu trắng tia chớp NHT SHOP",
+      "description": "Mẫu Polo rất dễ phối đồ và không hề kén da người mặc, đồng thời màu này còn mang đến cho người mặc cảm giác thư giãn, cùng phong cách thời trang thanh lịch và trẻ trung.",
       "price": 300000,
-      "category": ["Áo sơ mi", "Thời trang nam"]
+      "category": [ "Áo polo", "Thời trang nam" ]
     },
     {
-      "name": "Áo thun basic NHT SHOP",
-      "description": "Áo thun basic NHT SHOP với thiết kế đơn giản, trẻ trung, chất liệu co giãn thoáng mát, là lựa chọn hoàn hảo cho các hoạt động hằng ngày hoặc đi chơi.",
-      "price": 200000,
-      "category": ["Áo thun", "Thời trang nam"]
+      "name": "Áo Polo - Màu trắng họa tiết NHT SHOP",
+      "description": "thiết kế năng động, trẻ trung. Chất liệu cao cấp, co giãn, thấm hút tốt, mang lại sự thoải mái. Phù hợp phối đồ cho nhiều dịp.",
+      "price": 310000,
+      "category": [ "Áo polo", "Thời trang nam" ]
     },
     {
-      "name": "Quần jean slim-fit NHT SHOP",
-      "description": "Quần jean slim-fit NHT SHOP được thiết kế hiện đại, vừa vặn cơ thể, chất liệu denim bền bỉ và thoải mái, phù hợp cho phong cách năng động và cá tính.",
-      "price": 500000,
-      "category": ["Quần jean", "Thời trang nam"]
+      "name": "Áo Polo - Màu sọc ngang đỏ NHT SHOP",
+      "description": "Áo Polo sọc ngang đỏ đang giảm giá nổi bật, kiểu dáng thanh lịch, thời trang. Chất vải mềm mịn, thoáng mát, co giãn tốt. Lựa chọn hoàn hảo cho phong cách năng động và tự tin.",
+      "price": 190000,
+      "category": [ "Áo polo", "Thời trang nam" ]
     },
     {
-      "name": "Quần tây công sở NHT SHOP",
-      "description": "Quần tây công sở NHT SHOP mang phong cách lịch lãm, được may từ chất liệu cao cấp, đảm bảo sự sang trọng và thoải mái trong mọi tình huống công việc.",
-      "price": 450000,
-      "category": ["Quần tây", "Thời trang nam"]
+      "name": "Áo Polo - Màu Xanh Nhạt NHT SHOP",
+      "description": "Áo Polo đang giảm giá Áo Polo xanh nhạt, thiết kế tối giản, thanh lịch. Chất liệu mềm mại, thoáng mát, co giãn tốt, phù hợp với mọi hoàn cảnh.",
+      "price": 190000,
+      "category": [ "Áo polo", "Thời trang nam" ]
     },
     {
-      "name": "Áo khoác bomber NHT SHOP",
-      "description": "Áo khoác bomber NHT SHOP với thiết kế thời thượng, chất liệu chắn gió tốt, thích hợp cho những ngày thời tiết se lạnh hoặc dùng để tạo điểm nhấn cho phong cách của bạn.",
+      "name": "Áo Polo - Màu Xanh Dương NHT SHOP",
+      "description": "Áo Polo xanh dương, thiết kế hiện đại, lịch lãm. Chất liệu cao cấp, co giãn, thoáng mát, thấm hút tốt. Dễ phối đồ, phù hợp cho cả đi làm, đi chơi, và các sự kiện.",
+      "price": 190000,
+      "category": [ "Áo polo", "Thời trang nam" ]
+    },
+    {
+      "name": "Áo khoác - cổ trụ màu đen NHT SHOP",
+      "description": "2 lớp vải giúp tăng độ bền và khả năng giữ nhiệt. Có túi trong tiện lợi để đựng điện thoại hoặc các vật dụng nhỏ. Phong cách linh hoạt, phù hợp để diện trong nhiều dịp khác nhau như đi làm, hội họp, hẹn hò, hoặc dạo phố.",
       "price": 700000,
-      "category": ["Áo khoác", "Thời trang nam"]
+      "category": [ "Áo khoác", "Thời trang nam" ]
     },
     {
-      "name": "Thắt lưng da NHT SHOP",
-      "description": "Thắt lưng da NHT SHOP được làm từ da thật, thiết kế tinh tế, phù hợp để phối với các loại quần tây, quần jean, mang lại vẻ nam tính và lịch lãm.",
-      "price": 250000,
-      "category": ["Phụ kiện", "Thời trang nam"]
+      "name": "\tÁo khoác - Màu gỗ NHT SHOP",
+      "description": "2 lớp vải giúp tăng độ bền và khả năng giữ nhiệt. Chất liệu dày dặn, giữ ấm tốt phù hợp cho hội họp, hẹn hò, hoặc dạo phố.",
+      "price": 700000,
+      "category": [ "Áo khoác", "Thời trang nam" ]
     },
     {
-      "name": "Giày thể thao NHT SHOP",
-      "description": "Giày thể thao NHT SHOP có thiết kế trẻ trung, năng động, được làm từ chất liệu bền bỉ, mang đến sự thoải mái khi di chuyển suốt cả ngày dài.",
-      "price": 800000,
-      "category": ["Giày", "Thời trang nam"]
-    },
-    {
-      "name": "Áo vest công sở NHT SHOP",
-      "description": "Áo vest công sở NHT SHOP được may đo chuẩn dáng, chất liệu cao cấp, tạo phong cách lịch lãm và chuyên nghiệp cho các dịp đặc biệt hoặc đi làm.",
-      "price": 1200000,
-      "category": ["Áo vest", "Thời trang nam"]
-    },
-    {
-      "name": "Cà vạt silk NHT SHOP",
-      "description": "Cà vạt silk NHT SHOP với chất liệu lụa mềm mại, màu sắc tinh tế, là phụ kiện không thể thiếu để hoàn thiện phong cách công sở của bạn.",
-      "price": 150000,
-      "category": ["Phụ kiện", "Thời trang nam"]
+      "name": "Áo khoác - Màu xám họa tiết NHT SHOP",
+      "description": "Áo khoác màu xám họa tiết tinh tế, thiết kế hiện đại, trẻ trung. Chất liệu dày dặn, giữ ấm tốt, thoải mái khi mặc. Phù hợp phối đồ trong mọi hoàn cảnh, từ dạo phố đến công sở.",
+      "price": 700000,
+      "category": [ "Áo khoác", "Thời trang nam" ]
     }
+
   ]
 }
